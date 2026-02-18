@@ -141,7 +141,7 @@ _Ordered by the number of Github stars._
 
 17. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
-     _Git-based, traceable memory layer for Claude Code._
+      _Git-based, traceable memory layer for Claude Code._
 
 ### Closed-Source
 

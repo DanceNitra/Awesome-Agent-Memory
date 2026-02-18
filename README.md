@@ -75,19 +75,19 @@ _Ordered by the number of Github stars._
 
         🆕 _Newly released. Rising star. Stay tuned!_ 😜
 
-2. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
+2. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
+     [[code]](https://github.com/thedotmack/claude-mem)
+
+3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
      [[code]](https://github.com/getzep/graphiti)
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
 
-3. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
+4. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code]](https://github.com/letta-ai/letta)
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
-
-4. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
-     [[code]](https://github.com/thedotmack/claude-mem)
 
 5. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
      [[code]](https://github.com/mindverse/Second-Me)
@@ -117,29 +117,29 @@ _Ordered by the number of Github stars._
      [[blog](https://mirix.io/blog)]
 
 11. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
-     [[code]](https://github.com/caviraoss/openmemory)
+     [[code](https://github.com/caviraoss/openmemory)]
 
 12. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
-      [[code]](https://github.com/memodb-io/memobase)
+      [[code](https://github.com/memodb-io/memobase)]
       [[blog](https://www.memobase.io/blog)]
 
 13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
-      [[code]](https://github.com/EverMind-AI/EverMemOS)
+      [[code](https://github.com/EverMind-AI/EverMemOS)]
       [[blog](https://evermind-ai.com/blog/)]
 
 14. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-      [[code]](https://github.com/vectorize-io/hindsight)
+      [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
 
 15. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
-      [[code]](https://github.com/langchain-ai/langmem)
+      [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
 
 16. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
-      [[code]](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
+      [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
-17. **[Memov](https://github.com/memovai/memov)**![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+17. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
      [[code](https://github.com/memovai/memov)]
      _Git-based, traceable memory layer for Claude Code._
 

@@ -496,6 +496,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359)**
+    [[code](https://github.com/ningding-o/MeKi)]
+  
 - **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
     + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/7211321)**

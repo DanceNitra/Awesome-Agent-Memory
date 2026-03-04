@@ -143,6 +143,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
+18. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
+      [[code](https://github.com/omega-memory/core)]
+      [[pypi](https://pypi.org/project/omega-memory/)]
+      _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
+
 ### Closed-Source
 
 1. [Supermemory](https://supermemory.ai/)

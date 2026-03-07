@@ -615,6 +615,9 @@ _Ordered by the number of Github stars._
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
     [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
+- **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
+    [[code](https://github.com/BytedTsinghua-SIA/MemAgent)]
+
 - [Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management](https://arxiv.org/abs/2512.21567)
 
 - [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf)
@@ -633,8 +636,6 @@ _Ordered by the number of Github stars._
 - [Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)
 
 - [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
-
-- [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)
 
 - [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)
 

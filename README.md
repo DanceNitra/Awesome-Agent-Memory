@@ -111,13 +111,13 @@ _Ordered by the number of Github stars._
      [[code]](https://github.com/MemMachine/MemMachine)
      [[blog](https://memmachine.ai/blog/)]
 
-10. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+10. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+     [[code](https://github.com/caviraoss/openmemory)]
+
+11. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
      [[code]](https://github.com/Mirix-AI/MIRIX)
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
-
-11. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
-     [[code](https://github.com/caviraoss/openmemory)]
 
 12. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]

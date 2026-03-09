@@ -569,6 +569,7 @@ _Ordered by the number of Github stars._
 ### 🧭 Reinforcement Learning & Continual Learning 
 
 #### 🗓️ 2026
+
 - **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
     [[code](https://github.com/Miracle1207/ProcMEM)]
 
@@ -577,6 +578,8 @@ _Ordered by the number of Github stars._
 
 - **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
     [[code](https://github.com/Agent-on-the-Fly/Memento)]
+
+- [Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation](https://arxiv.org/abs/2603.04688)
 
 - [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885)
 

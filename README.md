@@ -654,8 +654,11 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[LCM: Lossless Context Management](https://papers.voltropy.com/LCM)**
+    [[code](https://github.com/Martian-Engineering/lossless-claw)]
+
 - **[CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587)**
-  [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
+    [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
 
 #### 🗓️ 2025
 

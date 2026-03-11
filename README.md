@@ -392,6 +392,11 @@ _Ordered by the number of Github stars._
 
 ### 🌐 Graph Memory
 
+#### 🗓️ 2026
+
+- **[PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)**
+    [[code](https://github.com/TIMAN-group/PlugMem)]
+
 #### 🗓️ 2025
 
 - **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**

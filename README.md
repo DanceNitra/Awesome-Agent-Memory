@@ -307,7 +307,9 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2026
 
 - **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809)**
-    [[code](https://github.com/RUC-NLPIR/DeepImageSearch)] [[leaderboard](https://huggingface.co/spaces/RUC-NLPIR/DISBench-Leaderboard)]
+    [[code](https://github.com/RUC-NLPIR/DeepImageSearch)]
+    [[data](https://huggingface.co/datasets/RUC-NLPIR/DISBench)]
+    [[leaderboard](https://huggingface.co/spaces/RUC-NLPIR/DISBench-Leaderboard)]
 
 #### 🗓️ 2025
 

@@ -304,6 +304,11 @@ _Ordered by the number of Github stars._
 
 ### 🎬 Multimodal Benchmarks
 
+#### 🗓️ 2026
+
+- **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809)**
+    [[code](https://github.com/RUC-NLPIR/DeepImageSearch)] [[leaderboard](https://huggingface.co/spaces/RUC-NLPIR/DISBench-Leaderboard)]
+
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**

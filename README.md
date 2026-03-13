@@ -148,6 +148,11 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
+19. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+      [[code](https://github.com/remete618/widemem-ai)]
+      [[pypi](https://pypi.org/project/widemem-ai/)]
+      _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
+
 ### Closed-Source
 
 1. [Supermemory](https://supermemory.ai/)

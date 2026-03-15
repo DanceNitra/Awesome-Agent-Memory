@@ -483,6 +483,11 @@ _Ordered by the number of Github stars._
 
 ### 🎥 Multimodal Memory (for Generation)
 
+#### 🗓️ 2026
+
+- **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)**
+    [[code](https://github.com/Junyi42/LoGeR)]
+
 #### 🗓️ 2025
 
 - **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)**

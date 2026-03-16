@@ -417,6 +417,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces](https://arxiv.org/abs/2602.09712)**
+    [[code](https://github.com/YimingShu-teay/TraceMem)]
+  
 - **[PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)**
     [[code](https://github.com/TIMAN-group/PlugMem)]
 

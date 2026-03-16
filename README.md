@@ -207,11 +207,14 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends](https://github.com/BAI-LAB/Survey-on-AI-Memory/blob/main/Survey%20on%20AI%20Memory.pdf)**
-    [[code](https://github.com/BAI-LAB/Survey-on-AI-Memory)]
+- **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
+    [[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]
 
 - **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
     [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
+
+- [Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends](https://github.com/BAI-LAB/Survey-on-AI-Memory/blob/main/Survey%20on%20AI%20Memory.pdf)
+  [[code](https://github.com/BAI-LAB/Survey-on-AI-Memory)]
 
 - [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
 

@@ -112,25 +112,25 @@ _Ordered by the number of Github stars._
      [[code]](https://github.com/MemMachine/MemMachine)
      [[blog](https://memmachine.ai/blog/)]
 
-10. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+10. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+      [[code](https://github.com/vectorize-io/hindsight)]
+      [[paper](https://arxiv.org/abs/2512.12818)]
+
+11. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
      [[code](https://github.com/caviraoss/openmemory)]
 
-11. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
+      [[code](https://github.com/EverMind-AI/EverMemOS)]
+      [[blog](https://evermind-ai.com/blog/)]
+
+13. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
      [[code]](https://github.com/Mirix-AI/MIRIX)
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
-12. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+14. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]
       [[blog](https://www.memobase.io/blog)]
-
-13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
-      [[code](https://github.com/EverMind-AI/EverMemOS)]
-      [[blog](https://evermind-ai.com/blog/)]
-
-14. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-      [[code](https://github.com/vectorize-io/hindsight)]
-      [[paper](https://arxiv.org/abs/2512.12818)]
 
 15. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
@@ -153,7 +153,7 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
-19. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+20. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._

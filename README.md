@@ -124,36 +124,39 @@ _Ordered by the number of Github stars._
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
-13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
+13.  **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)**: Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/) ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
+      [[code](https://github.com/CortexReach/memory-lancedb-pro)]
+
+14. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
       [[code](https://github.com/EverMind-AI/EverMemOS)]
       [[blog](https://evermind-ai.com/blog/)]
 
-14. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+15. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]
       [[blog](https://www.memobase.io/blog)]
 
-15. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+16. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
-16. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
+17. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
       [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
 
-17. **[Mem9](https://mem9.ai/)** (skill for [OpenClaw](https://openclaw.ai/) etc.) ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
+18. **[Mem9](https://mem9.ai/)** (skill for [OpenClaw](https://openclaw.ai/) etc.) ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
 
-18. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+19. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-19. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
+20. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/core)]
       [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
-20. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+21. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._

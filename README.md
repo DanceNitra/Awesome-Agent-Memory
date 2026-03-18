@@ -538,6 +538,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent](https://arxiv.org/abs/2603.13875)**
+    [[code](https://github.com/yurakuratov/gradmem)]
+
 - **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359)**
     [[code](https://github.com/ningding-o/MeKi)]
   

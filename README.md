@@ -538,6 +538,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens](https://github.com/EverMind-AI/MSA/blob/main/paper/MSA__Memory_Sparse_Attention_for_Efficient_End_to_End_Memory_Model_Scaling_to_100M_Tokens.pdf)**
+    [[code](https://github.com/EverMind-AI/MSA)]
+    
 - **[GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent](https://arxiv.org/abs/2603.13875)**
     [[code](https://github.com/yurakuratov/gradmem)]
 

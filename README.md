@@ -146,20 +146,25 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
 
-19. **[Mem9](https://mem9.ai/)** (skill for [OpenClaw](https://openclaw.ai/) etc.) ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
+19. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
+      [[code](https://github.com/plastic-labs/honcho)]
+      [[blog](https://blog.plasticlabs.ai/)]
+      [[evals](https://evals.honcho.dev/)]
+
+20. **[Mem9](https://mem9.ai/)** (skill for [OpenClaw](https://openclaw.ai/) etc.) ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
 
-20. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+21. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-21. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
+22. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/core)]
       [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
-22. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+23. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._

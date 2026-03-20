@@ -122,7 +122,7 @@ _Ordered by the number of Github stars._
 12. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
      [[code]](https://github.com/Mirix-AI/MIRIX)
      [[paper](https://arxiv.org/abs/2507.07957)]
-     [[blog](https://mirix.io/blog)]
+     [[blog](https://mirix.io/#/blog)]
 
 13.  **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]

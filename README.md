@@ -721,6 +721,9 @@ _Ordered by the number of Github stars._
 - **[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**
     [[code](https://github.com/AIGNE-io/aigne-framework)]
 
+- **[AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699)**
+    [[code](https://github.com/Alibaba-NLP/DeepResearch)]
+
 - **[ACON: Optimizing Context Compression for Long-horizon LLM Agents](https://arxiv.org/abs/2510.00615)**
     [[code](https://github.com/microsoft/acon)]
 

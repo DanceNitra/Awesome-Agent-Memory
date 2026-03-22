@@ -623,6 +623,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
+    [[code](https://github.com/Memento-Teams/Memento-Skills)]
+
 - **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
     [[code](https://github.com/Miracle1207/ProcMEM)]
 

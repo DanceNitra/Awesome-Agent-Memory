@@ -710,6 +710,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746)**
+    [[code](https://github.com/Ayanami1314/swe-pruner)]
+
 - **[LCM: Lossless Context Management](https://papers.voltropy.com/LCM)**
     [[code](https://github.com/Martian-Engineering/lossless-claw)]
 

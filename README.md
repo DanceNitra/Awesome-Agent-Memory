@@ -626,15 +626,21 @@ _Ordered by the number of Github stars._
 - **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
     [[code](https://github.com/Memento-Teams/Memento-Skills)]
 
-- **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
-    [[code](https://github.com/Miracle1207/ProcMEM)]
+- **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
+    [[code](https://github.com/Agent-on-the-Fly/Memento)]
 
 - **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474)**
     [[code](https://github.com/ViktorAxelsen/MemSkill)]
 
-- **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
-    [[code](https://github.com/Agent-on-the-Fly/Memento)]
+- **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
+    [[code](https://github.com/Miracle1207/ProcMEM)]
 
+- **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
+    [[code](https://github.com/MemTensor/MemRL)]
+  
+- **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
+    [[code](https://github.com/aiming-lab/SimpleMem)]
+  
 - [Why the Brain Consolidates: Predictive Forgetting for Optimal Generalisation](https://arxiv.org/abs/2603.04688)
 
 - [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885)

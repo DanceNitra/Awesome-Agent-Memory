@@ -171,22 +171,25 @@ _Ordered by the number of Github stars._
 
 ### Closed-Source
 
-1. [Supermemory](https://supermemory.ai/)
+1. [MemoryLake](https://www.memorylake.ai/en)
+   [[blog](https://www.memorylake.ai/en/blogs)]
+
+2. [Supermemory](https://supermemory.ai/)
    [[partial-code](https://github.com/supermemoryai/supermemory)]
    [[blog](https://supermemory.ai/blog)]
 
-2. [Memories.ai](https://memories.ai/)
+3. [Memories.ai](https://memories.ai/)
    [[research](https://memories.ai/research)]
    [[paper](https://memories.ai/research/Camera)]
    [[blog](https://memories.ai/blogs)]
 
-3. [Mem 2.0](https://get.mem.ai/)
+4. [Mem 2.0](https://get.mem.ai/)
    [[blog](https://get.mem.ai/blog)]
 
-4. [Macaron Mind Lab](https://macaron.im/mindlab)
+5. [Macaron Mind Lab](https://macaron.im/mindlab)
    [[blog](https://macaron.im/mindlab/research)]
    
-5. [TwinMind](https://twinmind.com/)
+6. [TwinMind](https://twinmind.com/)
 
 ### Archival (Inactive)
 

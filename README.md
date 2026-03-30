@@ -631,6 +631,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)**
+    [[code](https://github.com/Gen-Verse/OpenClaw-RL)]
+
 - **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
     [[code](https://github.com/Memento-Teams/Memento-Skills)]
 

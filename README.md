@@ -634,6 +634,9 @@ _Ordered by the number of Github stars._
 - **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)**
     [[code](https://github.com/Gen-Verse/OpenClaw-RL)]
 
+- **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
+    [[code](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory)]
+
 - **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
     [[code](https://github.com/Memento-Teams/Memento-Skills)]
 

@@ -431,6 +431,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236)**
+    [[code](https://github.com/FredJiang0324/MAMGA)]
+
 - **[TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces](https://arxiv.org/abs/2602.09712)**
     [[code](https://github.com/YimingShu-teay/TraceMem)]
   

@@ -159,6 +159,9 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
+21. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+      [[code](https://github.com/FlowElement-ai/m_flow)]
+
 21. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/core)]
       [[pypi](https://pypi.org/project/omega-memory/)]

@@ -119,7 +119,7 @@ _Ordered by the number of Github stars._
 
 11. **[MemPalace](https://github.com/milla-jovovich/mempalace)** ![Star](https://img.shields.io/github/stars/milla-jovovich/mempalace.svg?style=social&label=Star)
       [[code](https://github.com/milla-jovovich/mempalace)]
-      _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) et al._
+      _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
 
 12.  **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]

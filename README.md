@@ -113,13 +113,13 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
 
-10. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
-     [[code]](https://github.com/MemMachine/MemMachine)
-     [[blog](https://memmachine.ai/blog/)]
-
-11. **[MemPalace](https://github.com/milla-jovovich/mempalace)** ![Star](https://img.shields.io/github/stars/milla-jovovich/mempalace.svg?style=social&label=Star)
+10. **[MemPalace](https://github.com/milla-jovovich/mempalace)** ![Star](https://img.shields.io/github/stars/milla-jovovich/mempalace.svg?style=social&label=Star)
       [[code](https://github.com/milla-jovovich/mempalace)]
       _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
+
+11. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+     [[code]](https://github.com/MemMachine/MemMachine)
+     [[blog](https://memmachine.ai/blog/)]
 
 12.  **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]

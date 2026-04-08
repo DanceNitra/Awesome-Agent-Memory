@@ -80,42 +80,42 @@ _Ordered by the number of Github stars._
 2. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
      [[code]](https://github.com/thedotmack/claude-mem)
 
-3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
+3. **[MemPalace](https://github.com/milla-jovovich/mempalace)** ![Star](https://img.shields.io/github/stars/milla-jovovich/mempalace.svg?style=social&label=Star)
+      [[code](https://github.com/milla-jovovich/mempalace)]
+      _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
+
+4. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
      [[code]](https://github.com/getzep/graphiti)
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
 
-4. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
+5. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code]](https://github.com/letta-ai/letta)
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
 
-5. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
+6. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
      [[code]](https://github.com/mindverse/Second-Me)
      [[paper](https://arxiv.org/abs/2503.08102)]
 
-6. **[Congee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+7. **[Congee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
      [[code]](https://github.com/topoteretes/cognee)
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
-7. **[MemU](https://memu.pro/)** ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
+8. **[MemU](https://memu.pro/)** ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
      [[code]](https://github.com/NevaMind-AI/memU)
      [[blog](https://memu.pro/blog)]
 
-8. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+9. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
      [[code]](https://github.com/MemTensor/MemOS)
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
-9. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+10. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
       [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
-
-10. **[MemPalace](https://github.com/milla-jovovich/mempalace)** ![Star](https://img.shields.io/github/stars/milla-jovovich/mempalace.svg?style=social&label=Star)
-      [[code](https://github.com/milla-jovovich/mempalace)]
-      _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
 
 11. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
      [[code]](https://github.com/MemMachine/MemMachine)

@@ -108,14 +108,14 @@ _Ordered by the number of Github stars._
      [[code]](https://github.com/NevaMind-AI/memU)
      [[blog](https://memu.pro/blog)]
 
-9. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+9. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+      [[code](https://github.com/vectorize-io/hindsight)]
+      [[paper](https://arxiv.org/abs/2512.12818)]
+
+10. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
      [[code]](https://github.com/MemTensor/MemOS)
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
-     
-10. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-      [[code](https://github.com/vectorize-io/hindsight)]
-      [[paper](https://arxiv.org/abs/2512.12818)]
 
 11. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
      [[code]](https://github.com/MemMachine/MemMachine)

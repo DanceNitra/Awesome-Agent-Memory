@@ -160,9 +160,9 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
 
-21. **[AgentMemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+21. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
       [[code](https://github.com/rohitg00/agentmemory)]
-      _Persistent memory for AI coding agents with automatic capture, LLM compression, and hybrid search. Works via hooks (Claude Code), MCP protocol, or REST API._
+      _Persistent memory for AI coding agents._
 
 22. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]

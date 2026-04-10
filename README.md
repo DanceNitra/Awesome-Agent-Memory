@@ -533,6 +533,8 @@ _Ordered by the number of Github stars._
 - **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)**
     [[code](https://github.com/Junyi42/LoGeR)]
 
+- [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](https://arxiv.org/abs/2512.07802)
+
 #### 🗓️ 2025
 
 - **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)**

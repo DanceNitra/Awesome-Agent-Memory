@@ -11,7 +11,7 @@
 </p>
 
 --- 
-
+- 📰 [[AI Godfather (2026-04-08)] MemPalace - How Milla Jovovich's AI Project Scammed the Internet](https://www.youtube.com/watch?v=WlxNNvDHJkE) 
 - 📰 [[Troy Hua (2026-03-31)] How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com/troyhua/status/2039052328070734102)
 - 📰 [[VelvetShark (2026-03-05)] OpenClaw Memory Masterclass: The complete guide to agent memory that survives](https://velvetshark.com/openclaw-memory-masterclass)
 - 📰 [[Business Insider (2026-01-08 )] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1) 
@@ -201,12 +201,12 @@ _Ordered by the number of Github stars._
 
 ### Archival
 
-1. [MemPalace](https://github.com/milla-jovovich/mempalace) ❌ (Debunked!)
+1. [MemPalace](https://github.com/milla-jovovich/mempalace) ❌ (Debunked)
    [[code](https://github.com/milla-jovovich/mempalace)] 
    [[critique1](https://www.youtube.com/watch?v=WlxNNvDHJkE),[critique2](https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai)]
    _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
 
-2. [Memvid](https://www.memvid.com/) ❌ (Debunked!)
+2. [Memvid](https://www.memvid.com/) ❌ (Debunked)
    [[code](https://github.com/Olow304/memvid)]
    [[critique1](https://github.com/Olow304/memvid/issues/63),[critique2](https://github.com/Olow304/memvid/issues/49)]
 

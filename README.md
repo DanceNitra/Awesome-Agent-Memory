@@ -198,6 +198,10 @@ _Ordered by the number of Github stars._
    [[blog](https://macaron.im/mindlab/research)]
    
 6. [TwinMind](https://twinmind.com/)
+   [[blog](https://twinmind.com/blogs)]
+
+7. [Penfield](https://www.penfield.app/)
+   [[blog](https://penfieldlabs.substack.com/)]
 
 ### Archival
 

@@ -199,17 +199,17 @@ _Ordered by the number of Github stars._
    
 6. [TwinMind](https://twinmind.com/)
 
-### Archival (Inactive)
+### Archival
 
-1. [MemPalace](https://github.com/milla-jovovich/mempalace)
+1. [MemPalace](https://github.com/milla-jovovich/mempalace) ❌ (Debunked)
    [[code](https://github.com/milla-jovovich/mempalace)]
    _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
 
-2. [Memvid](https://www.memvid.com/)
+2. [Memvid](https://www.memvid.com/) ❌ (Debunked)
    [[code](https://github.com/Olow304/memvid)]
    [[critique1](https://github.com/Olow304/memvid/issues/63),[critique2](https://github.com/Olow304/memvid/issues/49)]
 
-3. [Memary](https://kingjulio8238.github.io/memarydocs/)
+3. [Memary](https://kingjulio8238.github.io/memarydocs/) (Inactive)
    [[code](https://github.com/kingjulio8238/memary)]
 
 ---

@@ -410,6 +410,8 @@ _Ordered by the number of Github stars._
 - **[Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)**
     [[code](https://github.com/nemori-ai/nemori)]
 
+- [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
+
 - [O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)
 
 - [Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering](https://arxiv.org/abs/2508.17330)
@@ -423,8 +425,6 @@ _Ordered by the number of Github stars._
 - [Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)
 
 - [Towards LifeSpan Cognitive Systems](https://arxiv.org/abs/2409.13265)
-
-- [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
 
 #### 🗓️ 2024
 

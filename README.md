@@ -424,6 +424,8 @@ _Ordered by the number of Github stars._
 
 - [Towards LifeSpan Cognitive Systems](https://arxiv.org/abs/2409.13265)
 
+- [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
+
 #### 🗓️ 2024
 
 - **[Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)**

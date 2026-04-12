@@ -244,14 +244,14 @@ _Ordered by the number of Github stars._
 - **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
     [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
 
+- [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
+
 - [Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends](https://github.com/BAI-LAB/Survey-on-AI-Memory/blob/main/Survey%20on%20AI%20Memory.pdf)
   [[code](https://github.com/BAI-LAB/Survey-on-AI-Memory)]
 
 - [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
 
 - [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://www.preprints.org/manuscript/202601.0618)
-
-- [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
 
 #### 🗓️ 2025
 

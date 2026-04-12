@@ -251,6 +251,8 @@ _Ordered by the number of Github stars._
 
 - [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://www.preprints.org/manuscript/202601.0618)
 
+- [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
+
 #### 🗓️ 2025
 
 - **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)**

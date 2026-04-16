@@ -66,7 +66,8 @@ _🤝 Contributions welcome! Feel free to open an issue or submit a pull request
 _Ordered by the number of Github stars._
 
 1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
-     [[code]](https://github.com/thedotmack/claude-mem)
+     [[code](https://github.com/thedotmack/claude-mem)]
+     [[docs](https://docs.claude-mem.ai/introduction)]
 
 2. **[Mem0](https://mem0.ai/)** ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
      [[code]](https://github.com/mem0ai/mem0)

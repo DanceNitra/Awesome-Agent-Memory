@@ -280,6 +280,11 @@ _Ordered by the number of Github stars._
 
 ### 💬 Plain-Text Benchmarks
 
+#### 🗓️ 2026
+
+- **LoCoMo Refined: Recalibrating LoCoMo with Stricter LLM Judging and A Cleaned Dataset**
+    [[code](https://github.com/mem-eval-suite/LoCoMo_refined)]
+
 #### 🗓️ 2025
 
 - **[Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](https://arxiv.org/abs/2510.27246)** (The BEAM Paper)

@@ -70,7 +70,7 @@ _Ordered by the number of Github stars._
      [[docs](https://docs.claude-mem.ai/introduction)]
 
 2. **[Mem0](https://mem0.ai/)** ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
-     [[code]](https://github.com/mem0ai/mem0)
+     [[code](https://github.com/mem0ai/mem0)]
      [[paper](https://arxiv.org/abs/2504.19413)]
      [[blog](https://get.mem.ai/blog)]
 
@@ -82,27 +82,27 @@ _Ordered by the number of Github stars._
         🆕 _Newly released. Rising star. Stay tuned!_ 😜
 
 3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
-     [[code]](https://github.com/getzep/graphiti)
+     [[code](https://github.com/getzep/graphiti)]
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
 
 4. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
-     [[code]](https://github.com/letta-ai/letta)
+     [[code](https://github.com/letta-ai/letta)]
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
 
 5. **[Congee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
-     [[code]](https://github.com/topoteretes/cognee)
+     [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
 6. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
-     [[code]](https://github.com/mindverse/Second-Me)
+     [[code](https://github.com/mindverse/Second-Me)]
      [[paper](https://arxiv.org/abs/2503.08102)]
 
 7. **[MemU](https://memu.pro/)** ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
-     [[code]](https://github.com/NevaMind-AI/memU)
+     [[code](https://github.com/NevaMind-AI/memU)]
      [[blog](https://memu.pro/blog)]
 
 8. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
@@ -110,7 +110,7 @@ _Ordered by the number of Github stars._
       [[paper](https://arxiv.org/abs/2512.12818)]
 
 9. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
-     [[code]](https://github.com/MemTensor/MemOS)
+     [[code](https://github.com/MemTensor/MemOS)]
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
 
@@ -121,7 +121,7 @@ _Ordered by the number of Github stars._
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
 11. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
-     [[code]](https://github.com/MemMachine/MemMachine)
+     [[code](https://github.com/MemMachine/MemMachine)]
      [[blog](https://memmachine.ai/blog/)]
 
 12. **[EverOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
@@ -132,7 +132,7 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/caviraoss/openmemory)]
 
 14. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
-     [[code]](https://github.com/Mirix-AI/MIRIX)
+     [[code](https://github.com/Mirix-AI/MIRIX)]
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/#/blog)]
 

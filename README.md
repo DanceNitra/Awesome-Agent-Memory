@@ -143,6 +143,7 @@ _Ordered by the number of Github stars._
 16. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[blog](https://blog.plasticlabs.ai/)]
+      [[research](https://blog.plasticlabs.ai/research/)]
       [[evals](https://evals.honcho.dev/)]
 
 17. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)

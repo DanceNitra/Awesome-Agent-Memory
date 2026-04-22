@@ -124,12 +124,12 @@ _Ordered by the number of Github stars._
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
-12. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+12. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+      [[code](https://github.com/caviraoss/openmemory)]
+
+13. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
      [[code](https://github.com/MemMachine/MemMachine)]
      [[blog](https://memmachine.ai/blog/)]
-
-13. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
-      [[code](https://github.com/caviraoss/openmemory)]
 
 14. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
      [[code](https://github.com/Mirix-AI/MIRIX)]

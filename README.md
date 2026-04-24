@@ -499,11 +499,11 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329)**
-    [[code](https://github.com/lingcco/EventMemAgent)]
-
 - **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724)**
     [[code](https://github.com/haowei-freesky/HERMES)]
+
+- **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329)**
+    [[code](https://github.com/lingcco/EventMemAgent)]
 
 #### 🗓️ 2025
 

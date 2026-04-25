@@ -173,18 +173,19 @@ _Ordered by the number of Github stars._
 
 23. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/core)]
+      [[blog](https://omegamax.co/blog)]
       _Persistent memory for AI coding agents._
 
-24. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+25. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
       [[code](https://github.com/ModernRelay/omnigraph)]
 
-25. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+26. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
 
-26. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+27. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
-27. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+28. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
 
 ### Closed-Source

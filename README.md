@@ -176,10 +176,24 @@ _Ordered by the number of Github stars._
       [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
-24. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+24. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+      [[code](https://github.com/ModernRelay/omnigraph)]
+      _Typed graph database for agent memory. Branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime._
+
+25. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
+
+26. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      [[npm](https://www.npmjs.com/package/packrat-compress)]
+      _Auto-learning codebook compression for AI agent memory. Token-optimized via tiktoken: 2.4% avg savings (up to 17%), 12x search speedup, 100% lossless round-trip, zero dependencies, built-in secrets filter._
+
+27. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      [[pypi](https://pypi.org/project/archon-memory-core/)]
+      _Apache 2.0 memory library for LLM agents with supersede-aware consolidation, type-aware salience, and active forgetting. Resolves contradictory facts at retrieval time. AMB v2.3 benchmark: 99.2% top-1 over 90 simulated days. Local-first on ChromaDB + Ollama._
 
 ### Closed-Source
 
@@ -204,7 +218,12 @@ _Ordered by the number of Github stars._
 6. [TwinMind](https://twinmind.com/)
    [[blog](https://twinmind.com/blogs)]
 
-7. [Penfield](https://www.penfield.app/)
+7. [Sonzai](https://sonz.ai/)
+   [[platform](https://platform.sonz.ai/)]
+   [[docs](https://sonz.ai/docs/en/home)]
+   _Memory and personality API for stateful AI agents — hierarchical persistent memory, Big Five (OCEAN) personality, 4D mood, and relationships via REST and MCP._
+
+8. [Penfield](https://www.penfield.app/)
    [[blog](https://penfieldlabs.substack.com/)]
 
 ### Archival

@@ -173,7 +173,6 @@ _Ordered by the number of Github stars._
 
 23. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/core.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/core)]
-      [[pypi](https://pypi.org/project/omega-memory/)]
       _Persistent memory for AI coding agents. MCP server with 25 tools. Ranks #1 on LongMemEval (95.4%)._
 
 24. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
@@ -182,7 +181,6 @@ _Ordered by the number of Github stars._
 
 25. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
-      [[pypi](https://pypi.org/project/widemem-ai/)]
       _Lightweight memory layer with importance scoring, temporal decay, 3-tier hierarchy, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS._
 
 26. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
@@ -192,7 +190,6 @@ _Ordered by the number of Github stars._
 
 27. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      [[pypi](https://pypi.org/project/archon-memory-core/)]
       _Apache 2.0 memory library for LLM agents with supersede-aware consolidation, type-aware salience, and active forgetting. Resolves contradictory facts at retrieval time. AMB v2.3 benchmark: 99.2% top-1 over 90 simulated days. Local-first on ChromaDB + Ollama._
 
 ### Closed-Source

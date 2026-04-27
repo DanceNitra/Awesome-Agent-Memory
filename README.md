@@ -683,6 +683,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**
+    [[code](https://github.com/ECNU-SII/MIA)]
+
 - **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)**
     [[code](https://github.com/Gen-Verse/OpenClaw-RL)]
 
@@ -703,9 +706,6 @@ _Ordered by the number of Github stars._
   
 - **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
     [[code](https://github.com/aiming-lab/SimpleMem)]
-
-- **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**
-    [[code](https://github.com/ECNU-SII/MIA)]
 
 - [Neural Garbage Collection: Learning to Forget while Learning to Reason](https://arxiv.org/abs/2604.18002)
 

@@ -683,6 +683,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Toward Autonomous Long-Horizon Engineering for ML Research](https://arxiv.org/abs/2604.13018)**
+    [[code](https://github.com/AweAI-Team/AiScientist)]
+
 - **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**
     [[code](https://github.com/ECNU-SII/MIA)]
 

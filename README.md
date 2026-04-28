@@ -683,6 +683,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory](https://arxiv.org/abs/2604.08000)**
+    [[code](https://github.com/xzf-thu/Pask)]
+
 - **[Toward Autonomous Long-Horizon Engineering for ML Research](https://arxiv.org/abs/2604.13018)**
     [[code](https://github.com/AweAI-Team/AiScientist)]
 

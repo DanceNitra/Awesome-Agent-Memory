@@ -567,6 +567,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration](https://arxiv.org/abs/2511.18886)**
+    [[code](https://github.com/vivoCameraResearch/Magic-World)]
+
 - **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)**
     [[code](https://github.com/stdstu12/YUME)]
 

@@ -816,6 +816,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- [Awareness as the Heart of Working Memory](https://www.sciencedirect.com/science/article/pii/S1364661326000756)
+
 - [Neural Activations and Representations during Episodic versus Semantic Memory Retrieval](https://www.nature.com/articles/s41562-025-02390-4)
 
 - [Distinct Neuronal Populations in the Human Brain Combine Content and Context](https://www.nature.com/articles/s41586-025-09910-2)

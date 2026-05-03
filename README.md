@@ -603,12 +603,10 @@ _Ordered by the number of Github stars._
 
 - **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
-    + **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (arXiv version)
-        [[code](https://github.com/deepseek-ai/Engram/)]
-    + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
-    + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
     + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/2601.22203)**
         [[code](https://github.com/zhejianglab/Gengram/)]
+    + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
+    + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
 
 - **[Language Model Memory and Memory Models for Language](https://arxiv.org/abs/2602.13466)**
     [[code](https://github.com/blbadger/memorymodels)]

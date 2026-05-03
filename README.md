@@ -601,7 +601,7 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
+- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
     + **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (arXiv version)
         [[code](https://github.com/deepseek-ai/Engram/)]

@@ -607,7 +607,7 @@ _Ordered by the number of Github stars._
         [[code](https://github.com/deepseek-ai/Engram/)]
     + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
     + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
-    + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/7211321)**
+    + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/2601.22203)**
         [[code](https://github.com/zhejianglab/Gengram/)]
 
 - **[Language Model Memory and Memory Models for Language](https://arxiv.org/abs/2602.13466)**

@@ -601,6 +601,18 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
+    [[code](https://github.com/deepseek-ai/Engram/)]
+    + **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (arXiv version)
+        [[code](https://github.com/deepseek-ai/Engram/)]
+    + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
+    + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
+    + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/7211321)**
+        [[code](https://github.com/zhejianglab/Gengram/)]
+
+- **[Language Model Memory and Memory Models for Language](https://arxiv.org/abs/2602.13466)**
+    [[code](https://github.com/blbadger/memorymodels)]
+
 - **[MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens](https://github.com/EverMind-AI/MSA/blob/main/paper/MSA__Memory_Sparse_Attention_for_Efficient_End_to_End_Memory_Model_Scaling_to_100M_Tokens.pdf)**
     [[code](https://github.com/EverMind-AI/MSA)]
     
@@ -609,11 +621,6 @@ _Ordered by the number of Github stars._
 
 - **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359)**
     [[code](https://github.com/ningding-o/MeKi)]
-  
-- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
-    [[code](https://github.com/deepseek-ai/Engram/)]
-    + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/7211321)**
-        [[code](https://github.com/zhejianglab/Gengram/)]
 
 - **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)**
     [[code](https://github.com/Infini-AI-Lab/STEM)]

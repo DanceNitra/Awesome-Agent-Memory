@@ -422,6 +422,11 @@ _Ordered by the number of Github stars._
 
 ### 📝 Text Memory
 
+#### 🗓️ 2026
+
+- **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://arxiv.org/abs/2604.17265)**
+    [[code](https://github.com/Applied-Machine-Learning-Lab/ACL2026_MemSearch-o1)]
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**

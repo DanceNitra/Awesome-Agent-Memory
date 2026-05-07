@@ -116,44 +116,44 @@ _Ordered by the number of Github stars._
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
 
-10. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
+10. **[EverOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
+      [[code](https://github.com/EverMind-AI/EverOS)]
+      [[blog](https://evermind-ai.com/blog/)]
+
+11. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]
       [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
-11. **[EverOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
-      [[code](https://github.com/EverMind-AI/EverOS)]
-      [[blog](https://evermind-ai.com/blog/)]
-
 12. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
       [[code](https://github.com/caviraoss/openmemory)]
 
-13. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
-     [[code](https://github.com/MemMachine/MemMachine)]
-     [[blog](https://memmachine.ai/blog/)]
-
-14. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+13. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
      [[code](https://github.com/Mirix-AI/MIRIX)]
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/#/blog)]
 
-15. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+14. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
-16. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
+15. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
       [[blog](https://blog.plasticlabs.ai/)]
       [[evals](https://evals.honcho.dev/)]
 
-17. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+16. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+     [[code](https://github.com/MemMachine/MemMachine)]
+     [[blog](https://memmachine.ai/blog/)]
+
+17. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+      [[code](https://github.com/FlowElement-ai/m_flow)]
+
+18. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]
       [[blog](https://www.memobase.io/blog)]
-
-18. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
-      [[code](https://github.com/FlowElement-ai/m_flow)]
 
 19. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
       [[code](https://github.com/rohitg00/agentmemory)]

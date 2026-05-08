@@ -177,16 +177,25 @@ _Ordered by the number of Github stars._
       [[blog](https://omegamax.co/blog)]
       _Persistent memory for AI coding agents._
 
+24. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+      [[code](https://github.com/fpytloun/mnemory)]
+      _Persistent memory for AI agents with facts, preferences, episodic/context memory, TTLs, user/agent scoping, artifact-backed long-form memory, and an MCP server._
+
 25. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
       [[code](https://github.com/ModernRelay/omnigraph)]
 
 26. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
 
-27. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+27. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+      [[code](https://github.com/puppyone-ai/puppyone)]
+      [[docs](https://www.puppyone.ai/doc)]
+      _Structural agent memory as a file system: auto-versioned writes, per-agent ACLs (File Level Security), audit logs, 15+ data connectors. Native MCP / REST / CLI. Apache 2.0._
+
+28. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
 
-28. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
 ### Closed-Source
@@ -847,6 +856,14 @@ _Ordered by the number of Github stars._
 ---
 
 ## 📰 Articles
+
+#### 🗓️ 2026
+
+- [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture)
+
+- [221 Agents: Multi-Agent Coordination Lessons](https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons)
+
+- [OpenClaw Multi-Tenancy: Why VM-Per-User Does Not Scale](https://blog.kinthai.ai/openclaw-multi-tenancy-why-vm-per-user-doesnt-scale)
 
 #### 🗓️ 2025
 

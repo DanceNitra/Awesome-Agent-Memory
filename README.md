@@ -11,6 +11,7 @@
 </p>
 
 --- 
+- 📰 [[Jiayi Weng (2026-05-09)] Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
 - 📰 [[Anthropic (2026-05-08)] Three key areas Anthropic is working on for their next models](https://www.reddit.com/r/singularity/comments/1t5q53r/three_key_areas_anthropic_is_working_on_for_their/)
 - 📰 [[OpenAI (2026-04-22)] Chronicle: Build Codex Memories from Recent Screen Context](https://developers.openai.com/codex/memories/chronicle)
     *  _Open-Source Alternatives_: [OpenChronicle](https://github.com/Einsia/OpenChronicle), [MemScreen](https://github.com/smileformylove/MemScreen) 

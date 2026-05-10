@@ -15,6 +15,7 @@
 - 📰 [[Anthropic (2026-05-08)] Three key areas Anthropic is working on for their next models](https://www.reddit.com/r/singularity/comments/1t5q53r/three_key_areas_anthropic_is_working_on_for_their/)
 - 📰 [[OpenAI (2026-04-22)] Chronicle: Build Codex Memories from Recent Screen Context](https://developers.openai.com/codex/memories/chronicle)
     *  _Open-Source Alternatives_: [OpenChronicle](https://github.com/Einsia/OpenChronicle), [MemScreen](https://github.com/smileformylove/MemScreen) 
+- 📰 [[a16z (2026-04-22)] Why We Need Continual Learning](https://a16z.com/why-we-need-continual-learning/)
 - 📰 [[AI Godfather (2026-04-08)] MemPalace - How Milla Jovovich's AI Project Scammed the Internet](https://www.youtube.com/watch?v=WlxNNvDHJkE) 
 - 📰 [[Troy Hua (2026-03-31)] How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com/troyhua/status/2039052328070734102)
 - 📰 [[VelvetShark (2026-03-05)] OpenClaw Memory Masterclass: The complete guide to agent memory that survives](https://velvetshark.com/openclaw-memory-masterclass)

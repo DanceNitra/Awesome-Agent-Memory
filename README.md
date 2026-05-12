@@ -47,7 +47,7 @@
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
     <ul>
         <li><a href="#-reinforcement-learning--continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
-        <li><a href="#-context-engineering">🧩 Context Engineering</a></li>
+        <li><a href="#-context-engineering--harness-engineering">🧩 Context Engineering & Harness Engineering</a></li>
     </ul>
     <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
     <li><a href="#-articles">📰 Articles</a></li>
@@ -814,7 +814,7 @@ _Ordered by the number of Github stars._
   
 - [Task-Core Memory Management and Consolidation for Long-term Continual Learning](https://arxiv.org/abs/2505.09952)
 
-### 🧩 Context Engineering 
+### 🧩 Context Engineering & Harness Engineering 
 
 #### 🗓️ 2026
 
@@ -826,6 +826,8 @@ _Ordered by the number of Github stars._
 
 - **[CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587)**
     [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
+
+- [M\*: Every Task Deserves Its Own Memory Harness](https://arxiv.org/abs/2604.11811)
 
 #### 🗓️ 2025
 

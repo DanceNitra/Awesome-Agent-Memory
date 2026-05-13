@@ -141,23 +141,23 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
-15. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
-     [[code](https://github.com/Mirix-AI/MIRIX)]
-     [[paper](https://arxiv.org/abs/2507.07957)]
-     [[blog](https://mirix.io/#/blog)]
-
-16. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
+15. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
       [[blog](https://blog.plasticlabs.ai/)]
       [[evals](https://evals.honcho.dev/)]
 
-17. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+16. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+     [[code](https://github.com/Mirix-AI/MIRIX)]
+     [[paper](https://arxiv.org/abs/2507.07957)]
+     [[blog](https://mirix.io/#/blog)]
+
+17. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+      [[code](https://github.com/FlowElement-ai/m_flow)]
+
+18. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
      [[code](https://github.com/MemMachine/MemMachine)]
      [[blog](https://memmachine.ai/blog/)]
-
-18. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
-      [[code](https://github.com/FlowElement-ai/m_flow)]
 
 19. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]

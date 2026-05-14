@@ -201,6 +201,11 @@ _Ordered by the number of Github stars._
 29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
+30. **[Tenure](https://github.com/jeffreyflynt/tenure)** ![Star](https://img.shields.io/github/stars/jeffreyflynt/tenure.svg?style=social&label=Star)
+      [[code](https://github.com/jeffreyflynt/tenure)]
+      [[paper](https://arxiv.org/abs/2605.11325)]
+      _Privacy-first local proxy that gives any OpenAI-compatible LLM persistent, structured memory across sessions via a typed belief schema, with alias-weighted BM25 retrieval and hard scope isolation._
+
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
@@ -390,6 +395,10 @@ _Ordered by the number of Github stars._
     [[data](https://huggingface.co/datasets/RUC-NLPIR/DISBench)]
     [[leaderboard](https://huggingface.co/spaces/RUC-NLPIR/DISBench-Leaderboard)]
 
+- **[Persona-MME: A Benchmark for Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)** (CVPR 2026)
+    [[code](https://github.com/MiG-NJU/PersonaVLM)]
+    [[data](https://huggingface.co/datasets/ClareNie/Persona-MME)]
+
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**
@@ -536,6 +545,10 @@ _Ordered by the number of Github stars._
 ### 🎥 Multimodal Memory (for Understanding)
 
 #### 🗓️ 2026
+
+- **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)** (CVPR 2026)
+    [[code](https://github.com/MiG-NJU/PersonaVLM)]
+    [[project](https://PersonaVLM.github.io)]
 
 - **[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)**
     [[code](https://github.com/aiming-lab/SimpleMem)]

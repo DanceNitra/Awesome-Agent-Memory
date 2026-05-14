@@ -395,7 +395,7 @@ _Ordered by the number of Github stars._
     [[data](https://huggingface.co/datasets/RUC-NLPIR/DISBench)]
     [[leaderboard](https://huggingface.co/spaces/RUC-NLPIR/DISBench-Leaderboard)]
 
-- **[Persona-MME: A Benchmark for Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)** (CVPR 2026)
+- **[Persona-MME: A Benchmark for Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
     [[code](https://github.com/MiG-NJU/PersonaVLM)]
     [[data](https://huggingface.co/datasets/ClareNie/Persona-MME)]
 
@@ -546,7 +546,7 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)** (CVPR 2026)
+- **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
     [[code](https://github.com/MiG-NJU/PersonaVLM)]
     [[project](https://PersonaVLM.github.io)]
 

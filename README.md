@@ -450,6 +450,9 @@ _Ordered by the number of Github stars._
 - **[Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)**
     [[code](https://github.com/nemori-ai/nemori)]
 
+- **[Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)**
+    [[code](https://github.com/em-llm/EM-LLM-model)]
+
 - [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
 
 - [O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)
@@ -461,8 +464,6 @@ _Ordered by the number of Github stars._
 - [SEDM: Scalable Self-Evolving Distributed Memory for Agents](https://arxiv.org/abs/2509.09498)
 
 - [MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](https://arxiv.org/abs/2409.05591)
-
-- [Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)
 
 - [Towards LifeSpan Cognitive Systems](https://arxiv.org/abs/2409.13265)
 

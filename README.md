@@ -445,6 +445,9 @@ _Ordered by the number of Github stars._
 - **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://arxiv.org/abs/2604.17265)**
     [[code](https://github.com/Applied-Machine-Learning-Lab/ACL2026_MemSearch-o1)]
 
+- **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
+    [[code](https://github.com/aiming-lab/SimpleMem)]
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
@@ -744,9 +747,6 @@ _Ordered by the number of Github stars._
 
 - **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)**
     [[code](https://github.com/MemTensor/MemRL)]
-  
-- **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
-    [[code](https://github.com/aiming-lab/SimpleMem)]
 
 - [Neural Garbage Collection: Learning to Forget while Learning to Reason](https://arxiv.org/abs/2604.18002)
 

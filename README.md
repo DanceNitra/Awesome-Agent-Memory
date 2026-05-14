@@ -534,6 +534,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)**
+    [[code](https://github.com/aiming-lab/SimpleMem)]
+
 - **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724)**
     [[code](https://github.com/haowei-freesky/HERMES)]
 

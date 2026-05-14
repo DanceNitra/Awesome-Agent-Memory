@@ -439,6 +439,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007)**
+    [[code](https://github.com/HU-xiaobai/xMemory)]
+
 - **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://arxiv.org/abs/2604.17265)**
     [[code](https://github.com/Applied-Machine-Learning-Lab/ACL2026_MemSearch-o1)]
 

@@ -201,11 +201,6 @@ _Ordered by the number of Github stars._
 29. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
 
-30. **[Tenure](https://github.com/jeffreyflynt/tenure)** ![Star](https://img.shields.io/github/stars/jeffreyflynt/tenure.svg?style=social&label=Star)
-      [[code](https://github.com/jeffreyflynt/tenure)]
-      [[paper](https://arxiv.org/abs/2605.11325)]
-      _Privacy-first local proxy that gives any OpenAI-compatible LLM persistent, structured memory across sessions via a typed belief schema, with alias-weighted BM25 retrieval and hard scope isolation._
-
 ### Closed-Source
 
 1. [MemoryLake](https://www.memorylake.ai/en)
@@ -456,6 +451,9 @@ _Ordered by the number of Github stars._
 
 - **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
     [[code](https://github.com/aiming-lab/SimpleMem)]
+
+- **[Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory](https://arxiv.org/abs/2605.11325)**
+    [[code](https://github.com/jeffreyflynt/tenure)]
 
 #### 🗓️ 2025
 

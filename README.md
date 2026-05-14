@@ -850,6 +850,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- [A Neural State Space for Episodic Memories](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00284-0)
+
 - [Dopaminergic Processes Predict Temporal Distortions in Event Memory](https://www.nature.com/articles/s41467-026-69950-8)
 
 - [Awareness as the Heart of Working Memory](https://www.sciencedirect.com/science/article/pii/S1364661326000756)

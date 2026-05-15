@@ -443,6 +443,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://arxiv.org/abs/2605.09530)**
+    [[code](https://github.com/MemTensor/MemPrivacy)]
+
 - **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007)**
     [[code](https://github.com/HU-xiaobai/xMemory)]
 

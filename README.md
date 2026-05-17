@@ -115,14 +115,14 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
 
-9. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
-     [[code](https://github.com/MemTensor/MemOS)]
-     [[paper](https://arxiv.org/abs/2507.03724)]
-     [[blog](https://supermemory.ai/blog)]
+9. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+     [[code](https://github.com/rohitg00/agentmemory)]
+     _Persistent memory for AI coding agents._
 
-10. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
-      [[code](https://github.com/rohitg00/agentmemory)]
-      _Persistent memory for AI coding agents._
+10. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+      [[code](https://github.com/MemTensor/MemOS)]
+      [[paper](https://arxiv.org/abs/2507.03724)]
+      [[blog](https://supermemory.ai/blog)]
 
 11. **[EverOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
       [[code](https://github.com/EverMind-AI/EverOS)]

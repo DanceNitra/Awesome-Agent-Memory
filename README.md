@@ -439,6 +439,12 @@ _Ordered by the number of Github stars._
 
 ### 🎮 Simulation Environments
 
+#### 🗓️ 2026
+
+- **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
+    [[code](https://github.com/AGI-Eval-Official/amemgym)]
+    [[project](https://agi-eval-official.github.io/amemgym/)]
+
 #### 🗓️ 2025
 
 - **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** (The Gaia2 Paper)
@@ -456,6 +462,9 @@ _Ordered by the number of Github stars._
 ### 📝 Text Memory
 
 #### 🗓️ 2026
+
+- **[Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250)** (RF-Mem)
+    [[code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)]
 
 - **[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://arxiv.org/abs/2605.09530)**
     [[code](https://github.com/MemTensor/MemPrivacy)]
@@ -537,6 +546,9 @@ _Ordered by the number of Github stars._
 
 - **[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957)**
     [[code](https://github.com/Mirix-AI/MIRIX)]
+
+- **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](https://arxiv.org/abs/2505.19549)** (MemGAS)
+    [[code](https://github.com/quqxui/MemGAS)]
 
 - **[Hierarchical Memory Organization for Wikipedia Generation](https://aclanthology.org/2025.acl-long.1423/)**
     [[code](https://github.com/eugeneyujunhao/mog)]

@@ -411,24 +411,25 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2025
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**
-    [[code](https://github.com/TeleAI-UAGI/TeleEgo)] [[proj](https://programmergg.github.io/jrliu.github.io/)]
+     [[code](https://github.com/TeleAI-UAGI/TeleEgo)]
+     [[proj](https://programmergg.github.io/jrliu.github.io/)]
 
 -  **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)**
-    [[code](https://github.com/zai-org/LVBench)]
+     [[code](https://github.com/zai-org/LVBench)]
 
 - **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)**
-   [[code](https://github.com/MME-Benchmarks/Video-MME)]
+    [[code](https://github.com/MME-Benchmarks/Video-MME)]
 
 #### 🗓️ 2024
 
 -  **[MovieChat+: Question-aware Sparse Memory for Long Video Question Answering](https://arxiv.org/abs/2404.17176)**
-    [[code](https://github.com/rese1f/MovieChat)]
+     [[code](https://github.com/rese1f/MovieChat)]
 
 -  **[CinePile: A Long Video Question Answering Dataset and Benchmark](https://arxiv.org/abs/2405.08813)**
-    [[code](https://huggingface.co/datasets/tomg-group-umd/cinepile)]
+     [[code](https://huggingface.co/datasets/tomg-group-umd/cinepile)]
 
 -  **[LongVideoBench: A Benchmark for Long-Context Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)**
-   [[code](https://github.com/longvideobench/LongVideoBench)]
+     [[code](https://github.com/longvideobench/LongVideoBench)]
 
 #### 🗓️ 2023
 
@@ -443,6 +444,7 @@ _Ordered by the number of Github stars._
 
 - **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
     [[code](https://github.com/AGI-Eval-Official/amemgym)]
+    [[proj](https://agi-eval-official.github.io/amemgym/)]
 
 #### 🗓️ 2025
 

@@ -443,7 +443,6 @@ _Ordered by the number of Github stars._
 
 - **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
     [[code](https://github.com/AGI-Eval-Official/amemgym)]
-    [[project](https://agi-eval-official.github.io/amemgym/)]
 
 #### 🗓️ 2025
 

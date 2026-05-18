@@ -358,10 +358,6 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/adobe-research/NoLiMa)]
     [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
 
-- **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
-    [[code](https://github.com/LittleDinoC/MemoryBench)]
-    [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
-
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
     [[code](https://github.com/MemTensor/HaluMem)]
     [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
@@ -451,6 +447,10 @@ _Ordered by the number of Github stars._
     [[proj](https://agi-eval-official.github.io/amemgym/)]
 
 #### 🗓️ 2025
+
+- **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
+    [[code](https://github.com/LittleDinoC/MemoryBench)]
+    [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
 
 - **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** (The Gaia2 Paper)
     [[code](https://github.com/facebookresearch/meta-agents-research-environments)]

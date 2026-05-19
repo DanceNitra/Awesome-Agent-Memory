@@ -282,6 +282,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/abs/2605.06716)**
+    [[code](https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey)]
+
 - **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
     [[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]
 
@@ -296,8 +299,6 @@ _Ordered by the number of Github stars._
   [[code](https://github.com/BAI-LAB/Survey-on-AI-Memory)]
 
 - [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
-
-- [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://www.preprints.org/manuscript/202601.0618)
 
 #### 🗓️ 2025
 

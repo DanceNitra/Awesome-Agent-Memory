@@ -333,20 +333,24 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
-- **[Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](https://arxiv.org/abs/2510.27246)** (The BEAM Paper)
+- **[Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](https://arxiv.org/abs/2510.27246)** 
+    (The BEAM Paper)
     [[code](https://github.com/mohammadtavakoli78/BEAM)]
     [[data](https://huggingface.co/datasets/Mohammadta/BEAM)]
   
-- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
+- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** 
+    (The ZH-4O Paper)
     [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
     [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
 
-- **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)** (The PersonaMem and ImplicitPersona Paper)
+- **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)** 
+    (The PersonaMem and ImplicitPersona Paper)
     [[code](https://github.com/bowen-upenn/PersonaMem)]
     [[data11](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
     [[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
 
-- **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257)** (The MemoryAgentBench Paper)
+- **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257)** 
+    (The MemoryAgentBench Paper)
     [[code](https://github.com/HUST-AI-HYZ/MemoryAgentBench)]
     [[data](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)]
 
@@ -380,7 +384,8 @@ _Ordered by the number of Github stars._
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)**
    [[data](https://github.com/xiaowu0162/LongMemEval)]
    
-- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
+- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** 
+    (The LoCoMo Paper)
     [[code](https://github.com/snap-research/LoCoMo)]
     [[data](https://github.com/snap-research/locomo/tree/main/data)]
 
@@ -452,7 +457,8 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/LittleDinoC/MemoryBench)]
     [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
 
-- **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** (The Gaia2 Paper)
+- **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** 
+    (The Gaia2 Paper)
     [[code](https://github.com/facebookresearch/meta-agents-research-environments)]
 
 #### 🗓️ 2024
@@ -676,7 +682,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** (The DeepSeek **Engram** Paper)
+- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)** 
+    (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
     + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/2601.22203)**
         [[code](https://github.com/zhejianglab/Gengram/)]
@@ -771,6 +778,7 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2026
 
 - **[CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment](https://arxiv.org/abs/2605.06702)**
+    (The DTLBench Paper)
     [[code](https://github.com/guosyjlu/CASCADE)]
 
 - **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**

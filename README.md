@@ -777,6 +777,10 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Learning, Fast and Slow: Towards LLMs That Adapt Continually](https://arxiv.org/abs/2605.12484)**
+    [[code](https://rishabhtiwari.ai/projects/fst/code/)]
+    [[blog](https://gepa-ai.github.io/gepa/blog/2026/05/11/learning-fast-and-slow/)]
+
 - **[CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment](https://arxiv.org/abs/2605.06702)**
     (The DTLBench Paper)
     [[code](https://github.com/guosyjlu/CASCADE)]

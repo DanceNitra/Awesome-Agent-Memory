@@ -964,9 +964,14 @@ _Ordered by the number of Github stars._
 
 ## 👥 Workshops
 
+#### 🗓️ 2026
+
+- [ICLR 2026](https://iclr.cc/Conferences/2026): [Workshop on Memory for LLM-Based Agentic Systems (MemAgents)](https://sites.google.com/view/memagent-iclr26/)
+  [[schedule](https://sites.google.com/view/memagent-iclr26/schedule)]
+
 #### 🗓️ 2025
 
-- [ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)
+- [ACL 2025](https://2025.aclweb.org/): [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)
   [[proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)]
 
 ---

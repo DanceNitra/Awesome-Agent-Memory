@@ -712,6 +712,8 @@ _Ordered by the number of Github stars._
 - **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
     [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
 
+- [Memory Retrieval and Consolidation in Large Language Models through Function Tokens](https://arxiv.org/abs/2510.08203)
+
 - [Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)
 
 - [Improving Factuality with Explicit Working Memory](https://arxiv.org/abs/2412.18069)
@@ -768,14 +770,17 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment](https://arxiv.org/abs/2605.06702)**
+    [[code](https://github.com/guosyjlu/CASCADE)]
+
+- **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**
+    [[code](https://github.com/ECNU-SII/MIA)]
+
 - **[PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory](https://arxiv.org/abs/2604.08000)**
     [[code](https://github.com/xzf-thu/Pask)]
 
 - **[Toward Autonomous Long-Horizon Engineering for ML Research](https://arxiv.org/abs/2604.13018)**
     [[code](https://github.com/AweAI-Team/AiScientist)]
-
-- **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503)**
-    [[code](https://github.com/ECNU-SII/MIA)]
 
 - **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)**
     [[code](https://github.com/Gen-Verse/OpenClaw-RL)]

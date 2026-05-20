@@ -547,6 +547,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[HyperMem: Hypergraph Memory for Long-Term Conversations](https://arxiv.org/abs/2604.08256)**
+    [[code](https://github.com/EverMind-AI/EverOS/tree/main/methods/HyperMem)]
+
 - **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236)**
     [[code](https://github.com/FredJiang0324/MAMGA)]
 

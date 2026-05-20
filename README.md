@@ -249,7 +249,7 @@ _Ordered by the number of Github stars._
 
 ### Archival
 
-1. [MemPalace](https://github.com/milla-jovovich/mempalace) ❌ (Debunked)
+1. [MemPalace](https://github.com/MemPalace/mempalace) ❌ (Debunked)
    [[code](https://github.com/milla-jovovich/mempalace)] 
    [[critique1](https://www.youtube.com/watch?v=WlxNNvDHJkE),[critique2](https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai)]
    _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_

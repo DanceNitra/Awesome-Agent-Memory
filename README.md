@@ -491,6 +491,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents](https://arxiv.org/abs/2605.16045)**
+    [[code](https://github.com/CaiusDai/RecMem)]
+
 - **[Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250)** (RF-Mem)
     [[code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)]
 

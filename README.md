@@ -520,6 +520,9 @@ _Ordered by the number of Github stars._
 - **[Human-inspired Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)**
     [[code](https://github.com/em-llm/EM-LLM-model)]
 
+- **[MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation](https://arxiv.org/abs/2510.07713)**
+    [[code](https://github.com/fishsure/MemWeaver)]
+
 - [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
 
 - [O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)

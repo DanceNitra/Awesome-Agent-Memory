@@ -124,7 +124,7 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/NevaMind-AI/memU)]
      [[blog](https://memu.pro/blog)]
 
-11. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+11. **[MemOS (by MemTensor)](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
       [[code](https://github.com/MemTensor/MemOS)]
       [[paper](https://arxiv.org/abs/2507.03724)]
       [[blog](https://supermemory.ai/blog)]

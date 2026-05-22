@@ -918,6 +918,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Code as Agent Harness](https://arxiv.org/abs/2605.18747)**
+    [[code](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)]
+
 - **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746)**
     [[code](https://github.com/Ayanami1314/swe-pruner)]
 

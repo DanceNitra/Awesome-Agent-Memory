@@ -103,10 +103,11 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
 
-6. **[Congee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+6. **[Cognee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
+     _Open-source memory engine that ingests data and organizes it into a knowledge graph (graph + vector) for AI agents. Persists knowledge across sources and sessions._
 
 7. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
      [[code](https://github.com/mindverse/Second-Me)]

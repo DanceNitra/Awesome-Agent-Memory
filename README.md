@@ -930,6 +930,8 @@ _Ordered by the number of Github stars._
 - **[CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587)**
     [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
 
+- [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)
+
 - [M\*: Every Task Deserves Its Own Memory Harness](https://arxiv.org/abs/2604.11811)
 
 #### 🗓️ 2025

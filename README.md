@@ -107,15 +107,15 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
 
-6. **[Cognee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+6. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+     [[code](https://github.com/rohitg00/agentmemory)]
+     _Persistent memory for AI coding agents._
+
+7. **[Cognee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
      _Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall._
-
-7. **[agentmemory](https://github.com/rohitg00/agentmemory)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
-     [[code](https://github.com/rohitg00/agentmemory)]
-     _Persistent memory for AI coding agents._
 
 8. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
      [[code](https://github.com/mindverse/Second-Me)]
@@ -149,25 +149,25 @@ _Ordered by the number of Github stars._
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
-14. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
-      [[code](https://github.com/caviraoss/openmemory)]
-      _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
-
-15. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
+14. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
       [[blog](https://blog.plasticlabs.ai/)]
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-16. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+15. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+      [[code](https://github.com/FlowElement-ai/m_flow)]
+      _Bio-inspired cognitive memory engine for Graph RAG._
+
+16. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+      [[code](https://github.com/caviraoss/openmemory)]
+      _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
+
+17. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
-
-17. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
-      [[code](https://github.com/FlowElement-ai/m_flow)]
-      _Bio-inspired cognitive memory engine for Graph RAG._
 
 18. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
       [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]

@@ -633,6 +633,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Visual Agentic Memory: Enabling Online Long Video Understanding via Online Indexing, Hierarchical Memory, and Agentic Retrieval](https://arxiv.org/abs/2605.16481)**
+    [[code](https://github.com/yiliu-li/Visual-Agentic-Memory)]
+
 - **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
     [[code](https://github.com/MiG-NJU/PersonaVLM)]
     [[project](https://PersonaVLM.github.io)]

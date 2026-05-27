@@ -542,6 +542,8 @@ _Ordered by the number of Github stars._
 
 - [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
+- [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**

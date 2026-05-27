@@ -44,6 +44,7 @@
         <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
         <li><a href="#-multimodal-memory-for-understanding">🎥 Multimodal Memory (for Understanding)</a></li>
         <li><a href="#-multimodal-memory-for-generation">🎥 Multimodal Memory (for Generation)</a></li>
+        <li><a href="#-robotic-memory">🤖 Robotic Memory</a></li>
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
@@ -540,8 +541,6 @@ _Ordered by the number of Github stars._
 - **[Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory](https://arxiv.org/abs/2605.11325)**
     [[code](https://github.com/jeffreyflynt/tenure)]
 
-- [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
-
 - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
 
 #### 🗓️ 2025
@@ -741,6 +740,18 @@ _Ordered by the number of Github stars._
 - [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058)
 
 - [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141)
+
+### 🤖 Robotic Memory
+
+#### 🗓️ 2026
+
+- **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**
+    [[code](https://github.com/OpenHelix-Team/RoboMemArena)]
+    [[project](https://robomemarena.github.io/)]
+    [[leaderboard](https://robomemarena.github.io/leaderboard.html)]
+    [[data](https://huggingface.co/datasets/RoboMemArenaBenchmark/RoboMemArena)]
+
+- [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
 ## 🔢 Papers - Parameteric Memory
 

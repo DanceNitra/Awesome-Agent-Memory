@@ -463,7 +463,9 @@ _Ordered by the number of Github stars._
 
 -  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**
      [[code](https://github.com/TeleAI-UAGI/TeleEgo)]
+     [[data](https://huggingface.co/datasets/David0219/TeleEgo)]
      [[proj](https://programmergg.github.io/jrliu.github.io/)]
+     [[leaderboard](https://programmergg.github.io/jrliu.github.io/#leaderboard)]
 
 -  **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)**
      [[code](https://github.com/zai-org/LVBench)]

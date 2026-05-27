@@ -540,6 +540,8 @@ _Ordered by the number of Github stars._
 - **[Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory](https://arxiv.org/abs/2605.11325)**
     [[code](https://github.com/jeffreyflynt/tenure)]
 
+- [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
+
 #### 🗓️ 2025
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**

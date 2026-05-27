@@ -595,6 +595,9 @@ _Ordered by the number of Github stars._
 - **[HyperMem: Hypergraph Memory for Long-Term Conversations](https://arxiv.org/abs/2604.08256)**
     [[code](https://github.com/EverMind-AI/EverOS/tree/main/methods/HyperMem)]
 
+- **[Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory](https://arxiv.org/abs/2602.15313)**
+    [[code](https://github.com/microsoft/Mnemis)]
+
 - **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236)**
     [[code](https://github.com/FredJiang0324/MAMGA)]
 

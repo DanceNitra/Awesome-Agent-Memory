@@ -649,7 +649,7 @@ _Ordered by the number of Github stars._
 
 - **[PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074)**
     [[code](https://github.com/MiG-NJU/PersonaVLM)]
-    [[project](https://PersonaVLM.github.io)]
+    [[proj](https://PersonaVLM.github.io)]
 
 - **[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)**
     [[code](https://github.com/aiming-lab/SimpleMem)]
@@ -747,9 +747,9 @@ _Ordered by the number of Github stars._
 
 - **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**
     [[code](https://github.com/OpenHelix-Team/RoboMemArena)]
-    [[project](https://robomemarena.github.io/)]
-    [[leaderboard](https://robomemarena.github.io/leaderboard.html)]
     [[data](https://huggingface.co/datasets/RoboMemArenaBenchmark/RoboMemArena)]
+    [[proj](https://robomemarena.github.io/)]
+    [[leaderboard](https://robomemarena.github.io/leaderboard.html)]
 
 - [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 

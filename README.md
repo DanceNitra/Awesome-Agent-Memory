@@ -44,7 +44,6 @@
         <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
         <li><a href="#-multimodal-memory-for-understanding">🎥 Multimodal Memory (for Understanding)</a></li>
         <li><a href="#-multimodal-memory-for-generation">🎥 Multimodal Memory (for Generation)</a></li>
-        <li><a href="#-robotic-memory">🤖 Robotic Memory</a></li>
     </ul>
     <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
@@ -450,6 +449,12 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**
+    [[code](https://github.com/OpenHelix-Team/RoboMemArena)]
+    [[data](https://huggingface.co/datasets/RoboMemArenaBenchmark/RoboMemArena)]
+    [[proj](https://robomemarena.github.io/)]
+    [[leaderboard](https://robomemarena.github.io/leaderboard.html)]
+
 - **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809)**
     [[code](https://github.com/RUC-NLPIR/DeepImageSearch)]
     [[data](https://huggingface.co/datasets/RUC-NLPIR/DISBench)]
@@ -544,6 +549,8 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/jeffreyflynt/tenure)]
 
 - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+
+- [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
 #### 🗓️ 2025
 
@@ -742,18 +749,6 @@ _Ordered by the number of Github stars._
 - [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058)
 
 - [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141)
-
-### 🤖 Robotic Memory
-
-#### 🗓️ 2026
-
-- **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**
-    [[code](https://github.com/OpenHelix-Team/RoboMemArena)]
-    [[data](https://huggingface.co/datasets/RoboMemArenaBenchmark/RoboMemArena)]
-    [[proj](https://robomemarena.github.io/)]
-    [[leaderboard](https://robomemarena.github.io/leaderboard.html)]
-
-- [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
 ## 🔢 Papers - Parameteric Memory
 

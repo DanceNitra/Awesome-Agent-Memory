@@ -619,6 +619,8 @@ _Ordered by the number of Github stars._
 - **[PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)**
     [[code](https://github.com/TIMAN-group/PlugMem)]
 
+- [SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061)
+
 #### 🗓️ 2025
 
 - **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**

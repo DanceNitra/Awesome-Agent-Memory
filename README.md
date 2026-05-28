@@ -406,6 +406,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents](https://arxiv.org/abs/2602.10715)**
+    [[code](https://github.com/xjtuleeyf/Locomo-Plus)]
+
 - **LoCoMo Refined: Recalibrating LoCoMo with Stricter LLM Judging and A Cleaned Dataset**
     [[code](https://github.com/mem-eval-suite/LoCoMo_refined)]
 

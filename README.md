@@ -602,6 +602,8 @@ _Ordered by the number of Github stars._
 - **[MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation](https://arxiv.org/abs/2510.07713)**
     [[code](https://github.com/fishsure/MemWeaver)]
 
+- [Evaluating Long-Term Memory for Long-Context Question Answering](https://arxiv.org/abs/2510.23730)
+
 - [Text2Mem: A Unified Memory Operation Language for Memory Operating System](https://arxiv.org/abs/2509.11145)
 
 - [O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)

@@ -73,12 +73,14 @@ _🤝 Contributions welcome! Feel free to open an issue or submit a pull request
 
 _Ordered by the number of Github stars._
 
-1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
+1. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** 
+     ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
      [[code](https://github.com/thedotmack/claude-mem)]
      [[docs](https://docs.claude-mem.ai/introduction)]
      _Session capture and compression that re-injects past activity into future sessions across coding agents._
 
-2. **[Mem0](https://mem0.ai/)** ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
+2. **[Mem0](https://mem0.ai/)** 
+     ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
      [[code](https://github.com/mem0ai/mem0)]
      [[paper](https://arxiv.org/abs/2504.19413)]
      [[blog](https://get.mem.ai/blog)]
@@ -91,116 +93,138 @@ _Ordered by the number of Github stars._
 
         🆕 _Newly released. Rising star. Stay tuned!_ 😜
 
-3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
+3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** 
+     ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
      [[code](https://github.com/getzep/graphiti)]
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
      _Real-time temporal knowledge graphs for AI agents._
 
-4. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
+4. **[Letta (formerly MemGPT)](https://www.letta.com/)** 
+     ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code](https://github.com/letta-ai/letta)]
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
 
-5. **[gbrain](https://github.com/garrytan/gbrain)** ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
+5. **[gbrain](https://github.com/garrytan/gbrain)** 
+     ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
 
-6. **[agentmemory](https://www.agent-memory.dev/)** ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+6. **[agentmemory](https://www.agent-memory.dev/)** 
+     ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
      [[code](https://github.com/rohitg00/agentmemory)]
      _Persistent memory for AI coding agents._
 
-7. **[Cognee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+7. **[Cognee](https://www.cognee.ai/)** 
+     ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
      _Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall._
 
-8. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
+8. **[Second Me](https://home.second.me/)** 
+     ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
      [[code](https://github.com/mindverse/Second-Me)]
      [[paper](https://arxiv.org/abs/2503.08102)]
      _Personal AI trained on the user to represent them across applications._
 
-9. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
-      [[code](https://github.com/vectorize-io/hindsight)]
-      [[paper](https://arxiv.org/abs/2512.12818)]
+9. **[Hindsight](https://hindsight.vectorize.io/)** 
+     ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+     [[code](https://github.com/vectorize-io/hindsight)]
+     [[paper](https://arxiv.org/abs/2512.12818)]
       _Agent memory layer that learns from interaction feedback to improve recall over time._
 
-10. **[MemU](https://memu.pro/)** ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
-     [[code](https://github.com/NevaMind-AI/memU)]
-     [[blog](https://memu.pro/blog)]
-     _Memory layer for 24/7 proactive agents._
+10. **[MemU](https://memu.pro/)** 
+      ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
+      [[code](https://github.com/NevaMind-AI/memU)]
+      [[blog](https://memu.pro/blog)]
+      _Memory layer for 24/7 proactive agents._
 
-11. **[MemOS (by MemTensor)](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+11. **[MemOS (by MemTensor)](https://memos.openmem.net/)** 
+      ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
       [[code](https://github.com/MemTensor/MemOS)]
       [[paper](https://arxiv.org/abs/2507.03724)]
       [[blog](https://supermemory.ai/blog)]
       _Memory OS for LLM agents with hybrid retrieval and cross-task skill reuse._
 
-12. **[EverOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
+12. **[EverOS (part of EverMind)](https://evermind-ai.com/)** 
+      ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social&label=Star)
       [[code](https://github.com/EverMind-AI/EverOS)]
       [[blog](https://evermind-ai.com/blog/)]
       _Toolkit for building, evaluating, and integrating long-term memory in self-evolving agents._
 
-13. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
+13. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
+      ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]
       [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
-14. **[Honcho](https://honcho.dev/)** ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
+14. **[Honcho](https://honcho.dev/)** 
+      ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
       [[blog](https://blog.plasticlabs.ai/)]
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-15. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
+15. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** 
+      ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
       [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]
       _Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies._
 
-16. **[M-Flow](https://m-flow.ai/)** ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+16. **[M-Flow](https://m-flow.ai/)** 
+      ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
       [[code](https://github.com/FlowElement-ai/m_flow)]
       _Bio-inspired cognitive memory engine for Graph RAG._
 
-17. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+17. **[OpenMemory](https://openmemory.cavira.app/)** 
+      ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
       [[code](https://github.com/caviraoss/openmemory)]
       _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
 
-18. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+18. **[MemoryBear](https://www.memorybear.ai/)** 
+      ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
 
-19. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
-     [[code](https://github.com/Mirix-AI/MIRIX)]
-     [[paper](https://arxiv.org/abs/2507.07957)]
-     [[blog](https://mirix.io/#/blog)]
-     _Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory._
+19. **[MIRIX](https://mirix.io/)** 
+      ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+      [[code](https://github.com/Mirix-AI/MIRIX)]
+      [[paper](https://arxiv.org/abs/2507.07957)]
+      [[blog](https://mirix.io/#/blog)]
+      _Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory._
 
-20. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
-     [[code](https://github.com/MemMachine/MemMachine)]
-     [[blog](https://memmachine.ai/blog/)]
-     _Interoperable memory layer providing extensible storage and retrieval primitives for AI agents._
+20. **[MemMachine](https://memmachine.ai/)** 
+      ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+      [[code](https://github.com/MemMachine/MemMachine)]
+      [[blog](https://memmachine.ai/blog/)]
+      _Interoperable memory layer providing extensible storage and retrieval primitives for AI agents._
 
-21. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+21. **[Memobase](https://memobase.io/)** 
+      ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
       [[code](https://github.com/memodb-io/memobase)]
       [[blog](https://www.memobase.io/blog)]
       _User profile-based long-term memory for AI chatbot applications._
 
-22. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
+22. **[LangMem](https://langchain-ai.github.io/langmem/)** 
+      ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
       [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
       _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._
 
-23. **[Mem9](https://mem9.ai/)** (skill for [OpenClaw](https://openclaw.ai/) etc.) ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
+23. **[Mem9](https://mem9.ai/)** 
+      ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
       [[code](https://github.com/mem9-ai/mem9)]
       [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
       _Local private memory hub for OpenClaw and similar coding agents._
 
-24. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+24. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** 
+      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
@@ -210,7 +234,8 @@ _Ordered by the number of Github stars._
       [[docs](https://docs.memanto.ai)]
       _Typed semantic memory with `remember`/`recall`/`answer` operations and information-theoretic retrieval._
 
-26. **[Memov](https://www.memov.ai/)** ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+26. **[Memov](https://www.memov.ai/)** 
+      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
@@ -223,38 +248,46 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/fpytloun/mnemory)]
       _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
-29. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+29. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** 
+      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
-30. **[widemem-ai](https://widemem.ai)** ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+30. **[widemem-ai](https://widemem.ai)** 
+      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
       [[code](https://github.com/remete618/widemem-ai)]
       _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
-31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
       [[code](https://github.com/Ikalus1988/MisakaNet)]
       [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
       _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
-32. **[Puppyone](https://www.puppyone.ai)** ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
+32. **[Puppyone](https://www.puppyone.ai)** 
+      ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
 
-33. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+33. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** 
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-34. **[Synap](https://maximem.ai)** ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
+34. **[Synap](https://maximem.ai)** 
+      ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
 
-35. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+35. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-36. **[Akephalos](https://github.com/sunnja69/akephalos)** ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
+36. **[Akephalos](https://github.com/sunnja69/akephalos)** 
+      ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 

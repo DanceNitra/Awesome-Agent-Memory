@@ -156,14 +156,7 @@ _Ordered by the number of Github stars._
       [[blog](https://evermind-ai.com/blog/)]
       _Toolkit for building, evaluating, and integrating long-term memory in self-evolving agents._
 
-13. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
-      ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
-      [[code](https://github.com/CortexReach/memory-lancedb-pro)]
-      [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
-      [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
-      _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
-
-14. **[Honcho](https://honcho.dev/)** 
+13. **[Honcho](https://honcho.dev/)** 
       ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social&label=Star)
       [[code](https://github.com/plastic-labs/honcho)]
       [[research](https://blog.plasticlabs.ai/research/)]
@@ -171,26 +164,33 @@ _Ordered by the number of Github stars._
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-15. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** 
+14. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** 
       ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social&label=Star)
       [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]
       _Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies._
+
+15. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
+      ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
+      [[code](https://github.com/CortexReach/memory-lancedb-pro)]
+      [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
+      [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
+      _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
 
 16. **[M-Flow](https://m-flow.ai/)** 
       ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
       [[code](https://github.com/FlowElement-ai/m_flow)]
       _Bio-inspired cognitive memory engine for Graph RAG._
 
-17. **[OpenMemory](https://openmemory.cavira.app/)** 
-      ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
-      [[code](https://github.com/caviraoss/openmemory)]
-      _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
-
-18. **[MemoryBear](https://www.memorybear.ai/)** 
+17. **[MemoryBear](https://www.memorybear.ai/)** 
       ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
+
+18. **[OpenMemory](https://openmemory.cavira.app/)** 
+      ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+      [[code](https://github.com/caviraoss/openmemory)]
+      _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._
 
 19. **[MIRIX](https://mirix.io/)** 
       ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
@@ -258,17 +258,17 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/remete618/widemem-ai)]
       _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
-31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
-      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
-      [[code](https://github.com/Ikalus1988/MisakaNet)]
-      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
-      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
-
-32. **[Puppyone](https://www.puppyone.ai)** 
+31. **[Puppyone](https://www.puppyone.ai)** 
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+32. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+      [[code](https://github.com/Ikalus1988/MisakaNet)]
+      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
+      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
 33. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** 
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)

@@ -168,17 +168,17 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/Tencent/TencentDB-Agent-Memory)]
       _Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies._
 
-15. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
+15. **[M-Flow](https://m-flow.ai/)** 
+      ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
+      [[code](https://github.com/FlowElement-ai/m_flow)]
+      _Bio-inspired cognitive memory engine for Graph RAG._
+
+16. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
       ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]
       [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
-
-16. **[M-Flow](https://m-flow.ai/)** 
-      ![Star](https://img.shields.io/github/stars/FlowElement-ai/m_flow.svg?style=social&label=Star)
-      [[code](https://github.com/FlowElement-ai/m_flow)]
-      _Bio-inspired cognitive memory engine for Graph RAG._
 
 17. **[MemoryBear](https://www.memorybear.ai/)** 
       ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
@@ -258,10 +258,11 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
-31. **[widemem-ai](https://widemem.ai)** 
-      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
-      [[code](https://github.com/remete618/widemem-ai)]
-      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
+31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+      [[code](https://github.com/Ikalus1988/MisakaNet)]
+      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
+      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
 32. **[Puppyone](https://www.puppyone.ai)** 
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
@@ -269,11 +270,10 @@ _Ordered by the number of Github stars._
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
 
-33. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
-      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
-      [[code](https://github.com/Ikalus1988/MisakaNet)]
-      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
-      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
+33. **[widemem-ai](https://widemem.ai)** 
+      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+      [[code](https://github.com/remete618/widemem-ai)]
+      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
 34. **[Origin](https://useorigin.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)

@@ -297,7 +297,13 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-38. **[Akephalos](https://github.com/sunnja69/akephalos)** 
+38. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+      ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
+      [[code](https://github.com/renezander030/agentic-task-system)]
+      [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
+      _Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to agents via a CLI with pluggable storage adapters._
+
+39. **[Akephalos](https://github.com/sunnja69/akephalos)** 
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._

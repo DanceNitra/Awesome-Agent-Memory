@@ -1143,9 +1143,9 @@ _Ordered by the number of Github stars._
 
 </div>
 
-<!-- 
-Made with ❤️ by the Ubiquitous AGI team at TeleAI.
+Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI.
 
+<!-- 
 <div align="center" style="margin-top: 10px;">
     <img src="https://github.com/TeleAI-UAGI/TeleEgo/blob/main/assets/TeleAI.jpg" alt="TeleAI Logo" width="120px" />
 </div> 

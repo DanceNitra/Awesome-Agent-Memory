@@ -916,6 +916,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)**
+    [[code](https://github.com/microsoft/SkillOpt)]
+
 - **[Learning, Fast and Slow: Towards LLMs That Adapt Continually](https://arxiv.org/abs/2605.12484)**
     [[code](https://rishabhtiwari.ai/projects/fst/code/)]
     [[blog](https://gepa-ai.github.io/gepa/blog/2026/05/11/learning-fast-and-slow/)]

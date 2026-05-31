@@ -1142,3 +1142,11 @@ _Ordered by the number of Github stars._
 **If you find this project helpful, please give us a ⭐️.**
 
 </div>
+
+<!-- 
+Made with ❤️ by the Ubiquitous AGI team at TeleAI.
+
+<div align="center" style="margin-top: 10px;">
+    <img src="https://github.com/TeleAI-UAGI/TeleEgo/blob/main/assets/TeleAI.jpg" alt="TeleAI Logo" width="120px" />
+</div> 
+-->

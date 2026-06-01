@@ -721,6 +721,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://arxiv.org/abs/2605.16883)**
+    [[code](https://github.com/jinshilong-dev/SE-GA)]
+
 - **[Visual Agentic Memory: Enabling Online Long Video Understanding via Online Indexing, Hierarchical Memory, and Agentic Retrieval](https://arxiv.org/abs/2605.16481)**
     [[code](https://github.com/yiliu-li/Visual-Agentic-Memory)]
 

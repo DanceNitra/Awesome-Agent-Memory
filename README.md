@@ -37,14 +37,14 @@
         <li><a href="#-multimodal-benchmarks">🎬 Multimodal Benchmarks</a></li>
         <li><a href="#-simulation-environments">🎮 Simulation Environments</a></li>
     </ul>
-    <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparameteric Memory</a></li>
+    <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparametric Memory</a></li>
     <ul>
         <li><a href="#-text-memory">📝 Text Memory</a></li>
         <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
         <li><a href="#-multimodal-memory-for-understanding">🎥 Multimodal Memory (for Understanding)</a></li>
         <li><a href="#-multimodal-memory-for-generation">🎥 Multimodal Memory (for Generation)</a></li>
     </ul>
-    <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
+    <li><a href="#-papers---parametric-memory">🔢 Papers - Parametric Memory</a></li>
     <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
     <ul>
         <li><a href="#-reinforcement-learning--continual-learning">🧭 Reinforcement Learning & Continual Learning</a></li>
@@ -821,7 +821,7 @@ _Ordered by the number of Github stars._
 
 - [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141)
 
-## 🔢 Papers - Parameteric Memory
+## 🔢 Papers - Parametric Memory
 
 #### 🗓️ 2026
 

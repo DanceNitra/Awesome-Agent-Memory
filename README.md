@@ -107,15 +107,15 @@ _Ordered by the number of Github stars._
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
 
-5. **[gbrain](https://github.com/garrytan/gbrain)** 
-     ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
-     [[code](https://github.com/garrytan/gbrain)]
-     _Garry's opinionated OpenClaw/Hermes agent brain._
-
-6. **[agentmemory](https://www.agent-memory.dev/)** 
+5. **[agentmemory](https://www.agent-memory.dev/)** 
      ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
      [[code](https://github.com/rohitg00/agentmemory)]
      _Persistent memory for AI coding agents._
+
+6. **[gbrain](https://github.com/garrytan/gbrain)** 
+     ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
+     [[code](https://github.com/garrytan/gbrain)]
+     _Garry's opinionated OpenClaw/Hermes agent brain._
 
 7. **[Cognee](https://www.cognee.ai/)** 
      ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
@@ -258,17 +258,17 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/Intelligent-Internet/CommonGround)]
       _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
-31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
-      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
-      [[code](https://github.com/Ikalus1988/MisakaNet)]
-      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
-      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
-
-32. **[Puppyone](https://www.puppyone.ai)** 
+31. **[Puppyone](https://www.puppyone.ai)** 
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+32. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+      [[code](https://github.com/Ikalus1988/MisakaNet)]
+      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
+      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
 33. **[widemem-ai](https://widemem.ai)** 
       ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)

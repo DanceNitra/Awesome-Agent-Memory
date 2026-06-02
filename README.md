@@ -838,6 +838,9 @@ _Ordered by the number of Github stars._
     + [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
     + [A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531)
 
+- **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)**
+    [[code](https://github.com/MindLab-Research/delta-Mem)]
+
 - **[Language Model Memory and Memory Models for Language](https://arxiv.org/abs/2602.13466)**
     [[code](https://github.com/blbadger/memorymodels)]
 

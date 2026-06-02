@@ -848,6 +848,8 @@ _Ordered by the number of Github stars._
 - **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)**
     [[code](https://github.com/Infini-AI-Lab/STEM)]
 
+- [Training Transformers for KV Cache Compressibility](https://arxiv.org/abs/2605.05971)
+
 - [Contextual Agentic Memory is a Memo, Not True Memory](https://arxiv.org/abs/2604.27707)
 
 - [Memory Caching: RNNs with Growing Memory](https://arxiv.org/abs/2602.24281)

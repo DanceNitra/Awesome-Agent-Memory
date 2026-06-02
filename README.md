@@ -1163,7 +1163,7 @@ _Ordered by the number of Github stars._
 Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI.
 
 <div align="center" style="margin-top: 10px;">
-    <img src="assets/bloo-mind.png" alt="Bloo-Mind Logo" width="120px" />
+    <a href="https://www.bloo-mind.ai/"><img src="assets/bloo-mind.png" alt="Bloo-Mind Logo" width="120px" /></a>
     &nbsp;&nbsp;&nbsp;
     <img src="assets/TeleAI.png" alt="TeleAI Logo" width="120px" />
 </div> 

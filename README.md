@@ -632,8 +632,6 @@ _Ordered by the number of Github stars._
 - **[Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory](https://arxiv.org/abs/2605.11325)**
     [[code](https://github.com/jeffreyflynt/tenure)]
 
-- [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
-
 - [MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents](https://arxiv.org/abs/2605.07594)
 
 #### 🗓️ 2025
@@ -870,6 +868,8 @@ _Ordered by the number of Github stars._
 
 - **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)**
     [[code](https://github.com/Infini-AI-Lab/STEM)]
+
+- [Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference](https://arxiv.org/abs/2605.26099)
 
 - [Training Transformers for KV Cache Compressibility](https://arxiv.org/abs/2605.05971)
 

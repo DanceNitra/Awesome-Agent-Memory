@@ -584,6 +584,11 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory](https://arxiv.org/abs/2605.31086)**
+    [[code](https://github.com/microsoft/RHELM)]
+    [[data](https://huggingface.co/datasets/microsoft/RHELM)]
+    [[proj](https://microsoft.github.io/RHELM/)]
+
 - **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
     [[code](https://github.com/AGI-Eval-Official/amemgym)]
     [[proj](https://agi-eval-official.github.io/amemgym/)]

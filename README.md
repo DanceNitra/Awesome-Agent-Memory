@@ -888,6 +888,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[MoM: Linear Sequence Modeling with Mixture-of-Memories](https://arxiv.org/abs/2502.13685)**
+    [[code](https://github.com/OpenSparseLLMs/MoM)]
+
 - **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
     [[code](https://github.com/Rubin-Wei/MLPMemory)]
 

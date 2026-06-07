@@ -52,6 +52,7 @@
         <li><a href="#-context-engineering--harness-engineering">🧩 Context Engineering & Harness Engineering</a></li>
     </ul>
     <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
+    <li><a href="#-memory-security--defense">🛡️ Memory Security & Defense</a></li>
     <li><a href="#-articles">📰 Articles</a></li>
     <li><a href="#-workshops">👥 Workshops</a></li>
   </ul>
@@ -1130,6 +1131,18 @@ _Ordered by the number of Github stars._
 - [How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(25)00189-4)
 
 - [Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)
+
+---
+
+## 🛡️ Memory Security & Defense
+
+- **[Agent Memory Guard](https://owasp.org/www-project-agent-memory-guard/)**
+    [[code](https://github.com/OWASP/www-project-agent-memory-guard)]
+    [[pypi](https://pypi.org/project/agent-memory-guard/)]
+    _OWASP runtime defense layer that screens agent memory writes for poisoning before they reach the agent — multi-layer validation with semantic anomaly detection, entropy scoring, provenance verification, and cross-reference and temporal checks._
+
+- [From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents](https://arxiv.org/abs/2606.04329)
+    (The MPBench Paper)
 
 ---
 

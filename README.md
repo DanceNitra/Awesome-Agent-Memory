@@ -52,7 +52,7 @@
         <li><a href="#-context-engineering--harness-engineering">🧩 Context Engineering & Harness Engineering</a></li>
     </ul>
     <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
-    <li><a href="#️-papers---memory-security--defense">🛡️ Papers - Memory Security & Defense</a></li>
+    <li><a href="#-memory-security--defense">🔒 Memory Security & Defense</a></li>
     <li><a href="#-articles">📰 Articles</a></li>
     <li><a href="#-workshops">👥 Workshops</a></li>
   </ul>
@@ -1134,7 +1134,7 @@ _Ordered by the number of Github stars._
 
 ---
 
-## 🛡️ Papers - Memory Security & Defense
+## 🔒 Memory Security & Defense
 
 - **[Agent Memory Guard](https://owasp.org/www-project-agent-memory-guard/)**
     [[code](https://github.com/OWASP/www-project-agent-memory-guard)]

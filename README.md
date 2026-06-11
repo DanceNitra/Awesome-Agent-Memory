@@ -418,6 +418,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Memory in the LLM Era: Modular Architectures and Strategies within a Unified Framework](https://arxiv.org/abs/2604.01707)**
+    [[code](https://github.com/Yanchen398/Memory-in-the-LLM-Era)]
+
 - **[From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/abs/2605.06716)**
     [[code](https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey)]
 

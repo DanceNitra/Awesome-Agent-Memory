@@ -540,8 +540,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
-- **[MBench: A Comprehensive Benchmark on Memory Capability for Video World Models](https://peanutup.github.io/MBench-project/)**
+- **[MBench: A Comprehensive Benchmark on Memory Capability for Video World Models](https://arxiv.org/abs/2606.00793)**
     [[code](https://github.com/study-overflow/MBench)]
+    [[proj](https://peanutup.github.io/MBench-project/)]
     [[leaderboard](https://huggingface.co/spaces/study-overflow/MBench_Leaderboard)]
 
 - **[RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)**

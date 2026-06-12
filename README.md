@@ -1226,7 +1226,7 @@ If this list is useful for your research or product, please cite it:
 @misc{awesome-agent-memory,
   title        = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs},
   author       = {{Bloo-Mind AI Ltd} and {TeleAI Ubiquitous AGI Team}},
-  year         = {2025},
+  year         = {2026},
   howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}
 }
 ```

@@ -1,0 +1,43 @@
+name: Suggest a resource
+description: Suggest a product, paper, benchmark, tutorial, or article for the list
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Primary link (homepage / arXiv / GitHub)
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Product (open-source)
+        - Product (closed-source)
+        - Tutorial
+        - Survey
+        - Benchmark
+        - Paper (nonparametric memory)
+        - Paper (parametric memory)
+        - Paper (agent evolution)
+        - Paper (cognitive science)
+        - Memory security & defense
+        - Article
+        - Workshop
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs on the list
+      description: One or two factual sentences. Include the code link if open-source.
+    validations:
+      required: true

@@ -1,0 +1,22 @@
+# Link-checker config for the weekly link-check workflow.
+# Goal: catch genuinely dead links without false positives from bot-blocking sites.
+
+max_concurrency = 8
+timeout = 30
+max_retries = 2
+user_agent = "Mozilla/5.0 (compatible; lychee link checker)"
+
+# Sites that block bots or rate-limit aggressively still serve humans fine —
+# accept their anti-bot status codes instead of excluding the links entirely.
+accept = ["200..=206", "403", "429"]
+
+exclude = [
+  # Badge/chart services — dynamic images, not content links
+  "img\\.shields\\.io",
+  "api\\.star-history\\.com",
+  # Login-walled or hard bot blocks (always fail from CI regardless of link health)
+  "x\\.com",
+  "twitter\\.com",
+  "reddit\\.com",
+  "linkedin\\.com",
+]

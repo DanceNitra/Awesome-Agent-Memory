@@ -3,11 +3,18 @@
 <h1 align="center">🧠 Awesome Agent Memory</h1>
 
 <p align="center">
-    A curated collection of systems, benchmarks, and papers et. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning.
+    A curated collection of systems, benchmarks, and papers etc. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning.
 </p>
 
 <p align="center">
    👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font and ranked higher.
+</p>
+
+<p align="center">
+   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0"></a>
+   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+   <a href="https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/commits/main"><img src="https://img.shields.io/github/last-commit/TeleAI-UAGI/Awesome-Agent-Memory" alt="Last Commit"></a>
 </p>
 
 --- 
@@ -62,7 +69,7 @@
     
 **If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
 
-_🤝 Contributions welcome! Feel free to open an issue or submit a pull request to add papers, fix links, or improve categorization._
+_🤝 Contributions welcome! Feel free to open an issue or submit a pull request to add papers, fix links, or improve categorization — see the [contributing guide](CONTRIBUTING.md) for entry formats._
 
 </div>
 
@@ -85,7 +92,7 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/mem0ai/mem0)]
      [[docs](https://docs.mem0.ai/)]
      [[paper](https://arxiv.org/abs/2504.19413)]
-     [[blog](https://get.mem.ai/blog)]
+     [[blog](https://mem0.ai/blog)]
      _Universal memory layer for AI agents._
 
     - **[TeleMem: A High-Performance Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
@@ -150,7 +157,6 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
       [[code](https://github.com/MemTensor/MemOS)]
       [[paper](https://arxiv.org/abs/2507.03724)]
-      [[blog](https://supermemory.ai/blog)]
       _Memory OS for LLM agents with hybrid retrieval and cross-task skill reuse._
 
 13. **[EverOS (part of EverMind)](https://evermind-ai.com/)** 
@@ -1208,6 +1214,23 @@ _Ordered by the number of Github stars._
 
 - [ACL 2025](https://2025.aclweb.org/): [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)
   [[proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)]
+
+---
+
+## 📑 Citation
+
+If this list is useful for your research or product, please cite it:
+
+```bibtex
+@misc{awesome-agent-memory,
+  title        = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs},
+  author       = {{Bloo-Mind AI} and {TeleAI Ubiquitous AGI Team}},
+  year         = {2025},
+  howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}
+}
+```
+
+See also the companion tutorial: [Conversational Agents: From RAG to LTM](https://dl.acm.org/doi/10.1145/3767695.3769671) (ACM SIGIR-AP 2025).
 
 ---
 

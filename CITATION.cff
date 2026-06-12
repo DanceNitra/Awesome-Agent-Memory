@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this list in your research, please cite it as below."
+title: "Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs"
+authors:
+  - name: "Bloo-Mind AI Ltd"
+  - name: "TeleAI Ubiquitous AGI Team"
+repository-code: "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
+license: Apache-2.0
+date-released: 2025-10-30

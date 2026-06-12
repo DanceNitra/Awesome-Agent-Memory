@@ -708,7 +708,8 @@ _Ordered by the number of Github stars._
 - **[Agent Workflow Memory](https://arxiv.org/abs/2409.07429)**
     [[code](https://github.com/zorazrw/agent-workflow-memory)]
 
-- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)**
+- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250)**
+    (AAAI 2024)
     [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
 - **[Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)**

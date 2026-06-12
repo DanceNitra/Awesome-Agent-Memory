@@ -1225,7 +1225,7 @@ If this list is useful for your research or product, please cite it:
 ```bibtex
 @misc{awesome-agent-memory,
   title        = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs},
-  author       = {{Bloo-Mind AI} and {TeleAI Ubiquitous AGI Team}},
+  author       = {{Bloo-Mind AI Ltd} and {TeleAI Ubiquitous AGI Team}},
   year         = {2025},
   howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}
 }

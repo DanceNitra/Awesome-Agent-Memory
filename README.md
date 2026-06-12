@@ -398,7 +398,7 @@ _Ordered by the number of Github stars._
 
 -  [Memvid](https://www.memvid.com/) ❌ (Debunked)
    [[code](https://github.com/Olow304/memvid)]
-   [[critique1](https://github.com/Olow304/memvid/issues/63),[critique2](https://github.com/Olow304/memvid/issues/49)]
+   [[critique (archived — the GitHub issues were since deleted)](https://web.archive.org/web/20250807093442/https://github.com/Olow304/memvid/issues/49)]
 
 -  [Memary](https://kingjulio8238.github.io/memarydocs/) ❄️ (Inactive)
    [[code](https://github.com/kingjulio8238/memary)]
@@ -725,7 +725,7 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2026
 
 - **[HyperMem: Hypergraph Memory for Long-Term Conversations](https://arxiv.org/abs/2604.08256)**
-    [[code](https://github.com/EverMind-AI/EverOS/tree/main/methods/HyperMem)]
+    [[code](https://github.com/EverMind-AI/EverOS)]
 
 - **[Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory](https://arxiv.org/abs/2602.15313)**
     [[code](https://github.com/microsoft/Mnemis)]
@@ -801,7 +801,6 @@ _Ordered by the number of Github stars._
 
 - **[MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627)**
     [[code](https://github.com/KnowledgeXLab/MemVerse)]
-    [[blog](https://dw2283.github.io/memverse.ai/research)]
 
 - **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168)**
     [[code](https://github.com/MintyCo0kie/MGA4OSWorld)]

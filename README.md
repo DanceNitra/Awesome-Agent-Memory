@@ -178,18 +178,18 @@ _Ordered by the number of Github stars._
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-15. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
+15. **[MemoryBear](https://www.memorybear.ai/)** 
+      ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+      [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
+      [[paper](https://arxiv.org/abs/2512.20651)]
+      _Memory framework providing human-like episodic and semantic recall to AI agents._
+
+16. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
       ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
       [[code](https://github.com/CortexReach/memory-lancedb-pro)]
       [[blog](https://lancedb.com/blog/openclaw-lancedb-memory-layer/)]
       [[video](https://www.youtube.com/watch?v=bhuGrjuCM_g)]
       _Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/)_
-
-16. **[MemoryBear](https://www.memorybear.ai/)** 
-      ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
-      [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
-      [[paper](https://arxiv.org/abs/2512.20651)]
-      _Memory framework providing human-like episodic and semantic recall to AI agents._
 
 17. **[OpenMemory](https://openmemory.cavira.app/)** 
       ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)

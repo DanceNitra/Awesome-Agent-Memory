@@ -993,6 +993,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473)**
+    [[code](https://github.com/InternScience/MLEvolve)]
+
 - **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)**
     [[code](https://github.com/microsoft/SkillOpt)]
 

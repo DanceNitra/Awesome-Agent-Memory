@@ -395,6 +395,10 @@ _Ordered by the number of Github stars._
 -  [Remio](https://remio.ai/)
    _Local-first personal knowledge base that indexes files, webpages, recordings, notes, emails, and messages for agent retrieval via search and RAG._
 
+-  [AccInt](https://accint.xyz)
+   [[partial-code](https://github.com/maxbaluev/accreted-intelligence)]
+   _Local-first MCP Work Model for coding agents that retrieves scored memory, records actions, and credits real outcomes; engine is a closed-source binary._
+
 ### Archival
 
 -  [MemPalace](https://github.com/MemPalace/mempalace) ❌ (Debunked)

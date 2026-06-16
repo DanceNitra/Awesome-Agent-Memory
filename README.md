@@ -43,7 +43,7 @@
     <ul>
         <li><a href="#-plain-text-benchmarks">💬 Plain-Text Benchmarks</a></li>
         <li><a href="#-multimodal-benchmarks">🎬 Multimodal Benchmarks</a></li>
-        <li><a href="#-simulation-environments">🎮 Simulation Environments</a></li>
+        <li><a href="#-dynamic-benchmarks--simulation-environments">🎮 Dynamic Benchmarks & Simulation Environments</a></li>
     </ul>
     <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparametric Memory</a></li>
     <ul>
@@ -621,7 +621,7 @@ _Ordered by the number of Github stars._
 
 - [LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)
 
-### 🎮 Simulation Environments
+### 🎮 Dynamic Benchmarks & Simulation Environments
 
 #### 🗓️ 2026
 
@@ -633,6 +633,8 @@ _Ordered by the number of Github stars._
 - **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
     [[code](https://github.com/AGI-Eval-Official/amemgym)]
     [[proj](https://agi-eval-official.github.io/amemgym/)]
+
+- [StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance](https://arxiv.org/abs/2606.14571)
 
 #### 🗓️ 2025
 

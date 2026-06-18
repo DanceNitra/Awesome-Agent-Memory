@@ -118,15 +118,15 @@ _Ordered by the number of Github stars._
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
 
-5. **[agentmemory](https://www.agent-memory.dev/)** 
-     ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
-     [[code](https://github.com/rohitg00/agentmemory)]
-     _Persistent memory for AI coding agents._
-
-6. **[gbrain](https://github.com/garrytan/gbrain)** 
+5. **[gbrain](https://github.com/garrytan/gbrain)** 
      ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
+
+6. **[agentmemory](https://www.agent-memory.dev/)** 
+     ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+     [[code](https://github.com/rohitg00/agentmemory)]
+     _Persistent memory for AI coding agents._
 
 7. **[Cognee](https://www.cognee.ai/)** 
      ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
@@ -244,41 +244,41 @@ _Ordered by the number of Github stars._
       [[release](https://github.com/samvallad33/vestige/releases/tag/v2.1.23)]
       _Local-first cognitive memory MCP server for coding agents, with FSRS-6 decay, spreading activation, active suppression, Receipt Lock, and an inspectable dashboard._
 
-26. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** 
-      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
-      [[code](https://github.com/ModernRelay/omnigraph)]
-      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
-
-27. **[Puppyone](https://www.puppyone.ai)** 
+26. **[Puppyone](https://www.puppyone.ai)** 
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+27. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** 
+      ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
+      [[code](https://github.com/ModernRelay/omnigraph)]
+      _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
 28. **[Memov](https://www.memov.ai/)** 
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
       [[code](https://github.com/memovai/memov)]
       _Git-based, traceable memory layer for Claude Code._
 
-29. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
-      [[code](https://github.com/omega-memory/omega-memory)]
-      [[blog](https://omegamax.co/blog)]
-      _MCP server exposing 25 memory tools for AI coding agents._
-
-30. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+29. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
       [[code](https://github.com/fpytloun/mnemory)]
       _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
-31. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** 
-      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
-      [[code](https://github.com/Intelligent-Internet/CommonGround)]
-      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
-
-32. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+30. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
       ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
       [[code](https://github.com/Ikalus1988/MisakaNet)]
       [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
       _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
+
+31. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
+      [[code](https://github.com/omega-memory/omega-memory)]
+      [[blog](https://omegamax.co/blog)]
+      _MCP server exposing 25 memory tools for AI coding agents._
+
+32. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** 
+      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+      [[code](https://github.com/Intelligent-Internet/CommonGround)]
+      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
 33. **[MemClaw (Caura)](https://memclaw.net/)**
       ![Star](https://img.shields.io/github/stars/caura-ai/caura-memclaw.svg?style=social&label=Star)

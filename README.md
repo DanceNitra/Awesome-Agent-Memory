@@ -797,7 +797,6 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2026
 
 - **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096)**
-    (CVPR 2026)
     [[code](https://github.com/YiwengXie/FluxMem)]
     [[proj](https://yiwengxie.com/FluxMem/)]
 

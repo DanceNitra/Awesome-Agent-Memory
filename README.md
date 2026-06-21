@@ -110,23 +110,23 @@ _Ordered by the number of Github stars._
      [[blog](https://blog.getzep.com/)]
      _Real-time temporal knowledge graphs for AI agents._
 
-4. **[Letta (formerly MemGPT)](https://www.letta.com/)** 
+4. **[gbrain](https://github.com/garrytan/gbrain)** 
+     ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
+     [[code](https://github.com/garrytan/gbrain)]
+     _Garry's opinionated OpenClaw/Hermes agent brain._
+
+5. **[agentmemory](https://www.agent-memory.dev/)** 
+     ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
+     [[code](https://github.com/rohitg00/agentmemory)]
+     _Persistent memory for AI coding agents._
+
+6. **[Letta (formerly MemGPT)](https://www.letta.com/)** 
      ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code](https://github.com/letta-ai/letta)]
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
-
-5. **[gbrain](https://github.com/garrytan/gbrain)** 
-     ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
-     [[code](https://github.com/garrytan/gbrain)]
-     _Garry's opinionated OpenClaw/Hermes agent brain._
-
-6. **[agentmemory](https://www.agent-memory.dev/)** 
-     ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
-     [[code](https://github.com/rohitg00/agentmemory)]
-     _Persistent memory for AI coding agents._
 
 7. **[Cognee](https://www.cognee.ai/)** 
      ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
@@ -255,20 +255,20 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/ModernRelay/omnigraph)]
       _Object-storage-native graph engine for agent memory with git-style branch/merge workflows._
 
-28. **[Memov](https://www.memov.ai/)** 
-      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
-      [[code](https://github.com/memovai/memov)]
-      _Git-based, traceable memory layer for Claude Code._
-
-29. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
-      [[code](https://github.com/fpytloun/mnemory)]
-      _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
-
-30. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
+28. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
       ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
       [[code](https://github.com/Ikalus1988/MisakaNet)]
       [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
       _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
+
+29. **[Memov](https://www.memov.ai/)** 
+      ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+      [[code](https://github.com/memovai/memov)]
+      _Git-based, traceable memory layer for Claude Code._
+
+30. **[Mnemory](https://github.com/fpytloun/mnemory)** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social&label=Star)
+      [[code](https://github.com/fpytloun/mnemory)]
+      _Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server._
 
 31. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social&label=Star)
       [[code](https://github.com/omega-memory/omega-memory)]
@@ -313,16 +313,16 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/Das-rebel/a3m-router)]
       _Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration._
 
-39. **[Synap](https://maximem.ai)** 
+39. **[Mimir](https://github.com/Perseus-Computing-LLC/mimir)** 
+      ![Star](https://img.shields.io/github/stars/Perseus-Computing-LLC/mimir.svg?style=social&label=Star)
+      [[code](https://github.com/Perseus-Computing-LLC/mimir)]
+      _MCP-native persistent memory for agents as a single Rust binary — embedded SQLite with FTS5 + vector hybrid search, AES-256-GCM encryption at rest, fully local._
+
+40. **[Synap](https://maximem.ai)** 
       ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk.svg?style=social&label=Star)
       [[code](https://github.com/maximem-ai/maximem_synap_sdk)]
       [[docs](https://docs.maximem.ai)]
       _Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks._
-
-40. **[Mimir](https://github.com/Perseus-Computing-LLC/mimir)** 
-      ![Star](https://img.shields.io/github/stars/Perseus-Computing-LLC/mimir.svg?style=social&label=Star)
-      [[code](https://github.com/Perseus-Computing-LLC/mimir)]
-      _MCP-native persistent memory for agents as a single Rust binary — embedded SQLite with FTS5 + vector hybrid search, AES-256-GCM encryption at rest, fully local._
 
 41. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** 
       ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
@@ -335,16 +335,16 @@ _Ordered by the number of Github stars._
       [[paper](https://doi.org/10.5281/zenodo.20578272)]
       _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
-43. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
-      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
-      [[code](https://github.com/kevdogg102396-afk/packrat)]
-      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
-
-44. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+43. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
       [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
       _Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to agents via a CLI with pluggable storage adapters._
+
+44. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
+      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
+      [[code](https://github.com/kevdogg102396-afk/packrat)]
+      _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
 45. **[Akephalos](https://github.com/sunnja69/akephalos)** 
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)

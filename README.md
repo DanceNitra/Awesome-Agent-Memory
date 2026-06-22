@@ -295,13 +295,13 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
       [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
-      _Local-first, offline agent memory built on an append-only, zero-loss transcript (user + agent messages, tool calls and results, decisions, errors); every extracted fact links back to its source span, and a verifier demotes the ones it cannot support before they are served. A librarian derives a typed temporal knowledge graph; corrected facts supersede old ones via invalidation. Hybrid vector + BM25 retrieval, tuned for small local models (97% Recall@5 and 74.6% end-to-end Judge on LongMemEval-S, runs on an 8GB Pi)._
+      _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
 36. **[Origin](https://useorigin.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/origin)]
       [[docs](https://useorigin.app/docs)]
-      _Local-first AI work memory for Claude Code, Cursor, Codex, and MCP clients, with session handoffs, source-backed wiki pages, graph context, and hybrid retrieval through one local daemon._
+      _Local-first AI work memory for coding agents and MCP clients: session handoffs, source-backed wiki pages, graph context, and hybrid retrieval via one local daemon._
 
 37. **[memclaw (Felo)](https://memclaw.me)**
       ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social&label=Star)
@@ -339,7 +339,7 @@ _Ordered by the number of Github stars._
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
       [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
-      _Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to agents via a CLI with pluggable storage adapters._
+      _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
 
 44. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)
@@ -359,7 +359,7 @@ _Ordered by the number of Github stars._
 47. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
       ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
       [[code](https://github.com/build-on-ai/consciousness-server)]
-      _Self-hosted HTTP services that give multiple local agents one shared memory: notes, chat, tasks, semantic search, agent registry, and opt-in ed25519 auth. Runs fully local (embeddings via Ollama); nothing leaves the host._
+      _Self-hosted services giving multiple local agents one shared memory — notes, chat, tasks, semantic search, agent registry, ed25519 auth — running fully local with Ollama embeddings._
 
 ### Closed-Source
 

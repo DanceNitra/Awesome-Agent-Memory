@@ -471,6 +471,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343)**
+    [[code](https://github.com/AgentMemory/Huaman-Agent-Memory)]
+
 - **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)**
     [[code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)]
 

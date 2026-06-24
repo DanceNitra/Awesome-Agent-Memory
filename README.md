@@ -18,7 +18,7 @@
 </p>
 
 --- 
-- 📰 [[Aryaman Arora (2026-06-23)] On Engram Lab and giving a finetuning talk to its team](https://x.com/aryaman2020/status/2069516238557270361)
+- 📰 [[Engram Lab (2026-06-23)] Announcing our Initial Public Offering](https://x.com/EngramLab/status/2069544922303377914)
 - 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
 - 📰 [[Bloo-Mind AI (2026-05-20)] The Benchmark Theatre: Why Almost Nothing You’ve Read About Agent Memory Scores Is True](https://essays.bloo-mind.ai/posts/2026-05-20-mem-eval/)
 - 📰 [[Jiayi Weng (2026-05-09)] Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)

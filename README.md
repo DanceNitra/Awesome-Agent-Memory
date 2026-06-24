@@ -226,17 +226,17 @@ _Ordered by the number of Github stars._
       [[blog](https://blog.langchain.com/)]
       _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._
 
-23. **[Mem9](https://mem9.ai/)** 
-      ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
-      [[code](https://github.com/mem9-ai/mem9)]
-      [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
-      _Local private memory hub for OpenClaw and similar coding agents._
-
-24. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social&label=Star)
+23. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social&label=Star)
       [[code](https://github.com/moorcheh-ai/memanto)]
       [[paper](https://arxiv.org/abs/2604.22085)]
       [[docs](https://docs.memanto.ai)]
       _Typed semantic memory with `remember`/`recall`/`answer` operations and information-theoretic retrieval._
+
+24. **[Mem9](https://mem9.ai/)** 
+      ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social&label=Star)
+      [[code](https://github.com/mem9-ai/mem9)]
+      [[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
+      _Local private memory hub for OpenClaw and similar coding agents._
 
 25. **[PowerMem](https://www.powermem.ai)**
       ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social&label=Star)
@@ -291,16 +291,16 @@ _Ordered by the number of Github stars._
       [[blog](https://memclaw.net/blog)]
       _Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning._
 
-35. **[widemem-ai](https://widemem.ai)** 
-      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
-      [[code](https://github.com/remete618/widemem-ai)]
-      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
-
-36. **[taOSmd](https://github.com/jaylfc/taosmd)**
+35. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
       [[code](https://github.com/jaylfc/taosmd)]
       [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
       _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
+
+36. **[widemem-ai](https://widemem.ai)** 
+      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+      [[code](https://github.com/remete618/widemem-ai)]
+      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
 37. **[Origin](https://useorigin.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)
@@ -334,17 +334,17 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/atw4757-byte/archon-memory-core)]
       _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
-43. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
-      ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
-      [[code](https://github.com/shimo4228/agent-knowledge-cycle)]
-      [[paper](https://doi.org/10.5281/zenodo.20578272)]
-      _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
-
-44. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+43. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
       [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
       _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
+
+44. **[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)**
+      ![Star](https://img.shields.io/github/stars/shimo4228/agent-knowledge-cycle.svg?style=social&label=Star)
+      [[code](https://github.com/shimo4228/agent-knowledge-cycle)]
+      [[paper](https://doi.org/10.5281/zenodo.20578272)]
+      _Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory._
 
 45. **[PackRat](https://github.com/kevdogg102396-afk/packrat)** 
       ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social&label=Star)

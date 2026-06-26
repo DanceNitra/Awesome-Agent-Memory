@@ -18,7 +18,7 @@
 </p>
 
 --- 
-- 📰 [[Perplexity (2026-06-18)] Self-improving Memory for Agents](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
+- 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
 - 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
 - 📰 [[Bloo-Mind AI (2026-05-20)] The Benchmark Theatre: Why Almost Nothing You’ve Read About Agent Memory Scores Is True](https://essays.bloo-mind.ai/posts/2026-05-20-mem-eval/)
 - 📰 [[Jiayi Weng (2026-05-09)] Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)

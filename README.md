@@ -111,30 +111,30 @@ _Ordered by the number of Github stars._
      [[blog](https://blog.getzep.com/)]
      _Real-time temporal knowledge graphs for AI agents._
 
-4. **[gbrain](https://github.com/garrytan/gbrain)** 
+4. **[Cognee](https://www.cognee.ai/)** 
+     ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+     [[code](https://github.com/topoteretes/cognee)]
+     [[paper](https://arxiv.org/abs/2505.24478)]
+     [[blog](https://www.cognee.ai/blog)]
+     _Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall._
+
+5. **[gbrain](https://github.com/garrytan/gbrain)** 
      ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social&label=Star)
      [[code](https://github.com/garrytan/gbrain)]
      _Garry's opinionated OpenClaw/Hermes agent brain._
 
-5. **[agentmemory](https://www.agent-memory.dev/)** 
+6. **[agentmemory](https://www.agent-memory.dev/)** 
      ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social&label=Star)
      [[code](https://github.com/rohitg00/agentmemory)]
      _Persistent memory for AI coding agents._
 
-6. **[Letta (formerly MemGPT)](https://www.letta.com/)** 
+7. **[Letta (formerly MemGPT)](https://www.letta.com/)** 
      ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
      [[code](https://github.com/letta-ai/letta)]
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
      _Stateful-agent platform with hierarchical memory that learns and self-improves over time._
-
-7. **[Cognee](https://www.cognee.ai/)** 
-     ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
-     [[code](https://github.com/topoteretes/cognee)]
-     [[paper](https://arxiv.org/abs/2505.24478)]
-     [[blog](https://www.cognee.ai/blog)]
-     _Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall._
 
 8. **[Hindsight](https://hindsight.vectorize.io/)** 
      ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
@@ -179,16 +179,16 @@ _Ordered by the number of Github stars._
       [[evals](https://evals.honcho.dev/)]
       _Memory library for stateful agents with a focus on user modeling._
 
-15. **[MemoryBear](https://www.memorybear.ai/)** 
+15. **[engram](https://github.com/Gentleman-Programming/engram)** 
+      ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social&label=Star)
+      [[code](https://github.com/Gentleman-Programming/engram)]
+      _Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI._
+
+16. **[MemoryBear](https://www.memorybear.ai/)** 
       ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
       _Memory framework providing human-like episodic and semantic recall to AI agents._
-
-16. **[engram](https://github.com/Gentleman-Programming/engram)** 
-      ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social&label=Star)
-      [[code](https://github.com/Gentleman-Programming/engram)]
-      _Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI._
 
 17. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** 
       ![Star](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro.svg?style=social&label=Star)
@@ -244,17 +244,17 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/oceanbase/powermem)]
       _Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team._
 
-26. **[Vestige](https://github.com/samvallad33/vestige)**
-      ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social&label=Star)
-      [[code](https://github.com/samvallad33/vestige)]
-      [[release](https://github.com/samvallad33/vestige/releases/tag/v2.1.23)]
-      _Local-first cognitive memory MCP server for coding agents, with FSRS-6 decay, spreading activation, active suppression, Receipt Lock, and an inspectable dashboard._
-
-27. **[Puppyone](https://www.puppyone.ai)** 
+26. **[Puppyone](https://www.puppyone.ai)** 
       ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social&label=Star)
       [[code](https://github.com/puppyone-ai/puppyone)]
       [[docs](https://www.puppyone.ai/doc)]
       _Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI._
+
+27. **[Vestige](https://github.com/samvallad33/vestige)**
+      ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social&label=Star)
+      [[code](https://github.com/samvallad33/vestige)]
+      [[release](https://github.com/samvallad33/vestige/releases/tag/v2.1.23)]
+      _Local-first cognitive memory MCP server for coding agents, with FSRS-6 decay, spreading activation, active suppression, Receipt Lock, and an inspectable dashboard._
 
 28. **[Omnigraph](https://github.com/ModernRelay/omnigraph)** 
       ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social&label=Star)
@@ -281,16 +281,16 @@ _Ordered by the number of Github stars._
       [[blog](https://omegamax.co/blog)]
       _MCP server exposing 25 memory tools for AI coding agents._
 
-33. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** 
-      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
-      [[code](https://github.com/Intelligent-Internet/CommonGround)]
-      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
-
-34. **[MemClaw (Caura)](https://memclaw.net/)**
+33. **[MemClaw (Caura)](https://memclaw.net/)**
       ![Star](https://img.shields.io/github/stars/caura-ai/caura-memclaw.svg?style=social&label=Star)
       [[code](https://github.com/caura-ai/caura-memclaw)]
       [[blog](https://memclaw.net/blog)]
       _Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning._
+
+34. **[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** 
+      ![Star](https://img.shields.io/github/stars/Intelligent-Internet/CommonGround.svg?style=social&label=Star)
+      [[code](https://github.com/Intelligent-Internet/CommonGround)]
+      _PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes._
 
 35. **[taOSmd](https://github.com/jaylfc/taosmd)**
       ![Star](https://img.shields.io/github/stars/jaylfc/taosmd.svg?style=social&label=Star)
@@ -298,16 +298,16 @@ _Ordered by the number of Github stars._
       [[benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md)]
       _Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models._
 
-36. **[widemem-ai](https://widemem.ai)** 
-      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
-      [[code](https://github.com/remete618/widemem-ai)]
-      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
-
-37. **[Origin](https://useorigin.app/)**
+36. **[Origin](https://useorigin.app/)**
       ![Star](https://img.shields.io/github/stars/7xuanlu/origin.svg?style=social&label=Star)
       [[code](https://github.com/7xuanlu/origin)]
       [[docs](https://useorigin.app/docs)]
       _Local-first AI work memory for coding agents and MCP clients: session handoffs, source-backed wiki pages, graph context, and hybrid retrieval via one local daemon._
+
+37. **[widemem-ai](https://widemem.ai)** 
+      ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social&label=Star)
+      [[code](https://github.com/remete618/widemem-ai)]
+      _Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy._
 
 38. **[memclaw (Felo)](https://memclaw.me)**
       ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social&label=Star)

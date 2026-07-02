@@ -1277,11 +1277,15 @@ _Ordered by the number of Github stars._
 If this list is useful for your research or product, please cite it:
 
 ```bibtex
-@misc{awesome-agent-memory,
-  title        = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs},
-  author       = {{Bloo-Mind AI Ltd} and {TeleAI Ubiquitous AGI Team}},
-  year         = {2026},
-  howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}
+@inproceedings{zhangConversationalAgentsRAG2025,
+        author = {Zhang, Dell and Feng, Yue and Liu, Haiming and Sun, Changzhi and Luo, Jixiang and Chen, Xiangyu and Li, Xuelong},
+        title = {Conversational Agents: From {RAG} to {LTM}},
+        year = {2025},
+        isbn = {9798400722189},
+        doi = {10.1145/3767695.3769671},
+        booktitle = {Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP)},
+        pages = {447–452},
+        location = {China}
 }
 ```
 

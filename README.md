@@ -521,8 +521,9 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2026
 
 - **[Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)**
-    [[code](https://github.com/OpenDataBox/MemoryData)]
-
+    (The MemoryData Paper)
+   [[data](https://github.com/OpenDataBox/MemoryData)]
+ 
 - **[Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents](https://arxiv.org/abs/2602.10715)**
     [[code](https://github.com/xjtuleeyf/Locomo-Plus)]
 

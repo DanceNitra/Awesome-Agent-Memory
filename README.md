@@ -449,7 +449,7 @@ _Ordered by the number of Github stars._
  - **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
      [[code](https://github.com/NirDiamant/Agent_Memory_Techniques)]
 
-- **[Memory, Context, and Retrieval](https://books.bloo-mind.ai/masact/ch-07-memory-context-retrieval)**: Chapter 7 of the new book _Multi-Agent Systems: A Contemporary Treatment_.
+- **[Memory, Context, and Retrieval](https://books.bloo-mind.ai/masact/ch-07-memory-context-retrieval)**: Chapter 7 of the new book _[Multi-Agent Systems: A Contemporary Treatment](https://books.bloo-mind.ai/masact/)_.
   
 #### 🗓️ 2025
 

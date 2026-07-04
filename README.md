@@ -1290,8 +1290,6 @@ If this list is useful for your research or product, please cite it:
 }
 ```
 
-See also the companion tutorial: [Conversational Agents: From RAG to LTM](https://dl.acm.org/doi/10.1145/3767695.3769671) (ACM SIGIR-AP 2025).
-
 ---
 
 ## Star History

@@ -695,6 +695,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Mandol: An Agglomerative Agent Memory System for Long-Term Conversations](https://arxiv.org/abs/2606.29778)**
+    [[code](https://github.com/AgentCombo/Mandol)]
+
 - **[RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents](https://arxiv.org/abs/2605.16045)**
     [[code](https://github.com/CaiusDai/RecMem)]
 

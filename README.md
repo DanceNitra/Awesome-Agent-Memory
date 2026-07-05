@@ -365,17 +365,22 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/kevdogg102396-afk/packrat)]
       _Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable._
 
-48. **[Akephalos](https://github.com/sunnja69/akephalos)** 
+48. **[Context Kit](https://github.com/JDDavenport/context-kit)** 
+      ![Star](https://img.shields.io/github/stars/JDDavenport/context-kit.svg?style=social&label=Star)
+      [[code](https://github.com/JDDavenport/context-kit)]
+      _Markdown "personal context artifact" templates plus Claude Code skills and an MCP server that load durable identity, preferences, and project context into agents._
+
+49. **[Akephalos](https://github.com/sunnja69/akephalos)** 
       ![Star](https://img.shields.io/github/stars/sunnja69/akephalos.svg?style=social&label=Star)
       [[code](https://github.com/sunnja69/akephalos)]
       _Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git._
 
-49. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
+50. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)**
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
 
-50. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
+51. **[consciousness-server](https://github.com/build-on-ai/consciousness-server)**
       ![Star](https://img.shields.io/github/stars/build-on-ai/consciousness-server.svg?style=social&label=Star)
       [[code](https://github.com/build-on-ai/consciousness-server)]
       _Self-hosted services giving multiple local agents one shared memory — notes, chat, tasks, semantic search, agent registry, ed25519 auth — running fully local with Ollama embeddings._

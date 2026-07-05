@@ -695,6 +695,10 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.01224)**
+    [[code](https://github.com/autoLearnMem/AutoMem)]
+    [[proj](https://autolearnmem.github.io/)]
+
 - **[Mandol: An Agglomerative Agent Memory System for Long-Term Conversations](https://arxiv.org/abs/2606.29778)**
     [[code](https://github.com/AgentCombo/Mandol)]
 

@@ -969,7 +969,8 @@ _Ordered by the number of Github stars._
 - **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)**
     [[code](https://github.com/Infini-AI-Lab/STEM)]
 
-- [MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)
+- **[MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)**
+    [[code](https://github.com/arunv3rma/MeMo)]
 
 - [Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979)
 

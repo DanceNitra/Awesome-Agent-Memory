@@ -1309,7 +1309,7 @@ If this list is useful for your research or product, please cite it:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=TeleAI-UAGI/Awesome-Agent-Memory&type=date&legend=top-left&sealed_token=HndhpfcgmQQTZzykPTJnhTRiM7VTBcvQ8x1cmjkLDjqmPAXnhQlj8KJCwGZQDy3FL90JNnLOlvRMZ0S2RmzOE1p-Q-mot3_dvaxkvM_7mznGaYL9KoDkVYPs5gWv8Ga8Qw9-7USKNYYp_VHvjPloysMz_0Q9DZiL0UGs0d2LK26AaMRfGygbYU9nG85O)](https://www.star-history.com/?repos=TeleAI-UAGI%2FAwesome-Agent-Memory&type=date&legend=bottom-right)
+[![Star History Chart](https://api.star-history.com/chart?repos=TeleAI-UAGI/Awesome-Agent-Memory&type=date&legend=bottom-right&sealed_token=HndhpfcgmQQTZzykPTJnhTRiM7VTBcvQ8x1cmjkLDjqmPAXnhQlj8KJCwGZQDy3FL90JNnLOlvRMZ0S2RmzOE1p-Q-mot3_dvaxkvM_7mznGaYL9KoDkVYPs5gWv8Ga8Qw9-7USKNYYp_VHvjPloysMz_0Q9DZiL0UGs0d2LK26AaMRfGygbYU9nG85O)](https://www.star-history.com/?repos=TeleAI-UAGI%2FAwesome-Agent-Memory&type=date&legend=bottom-right)
 
 ---
 

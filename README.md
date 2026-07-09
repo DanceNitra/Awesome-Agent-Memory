@@ -1014,7 +1014,7 @@ _Ordered by the number of Github stars._
 - **[Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models](https://www.arxiv.org/abs/2508.09874)**
     [[code](https://github.com/LUMIA-Group/MemoryDecoder)]
 
-- [How much do language models memorize?](https://arxiv.org/abs/2505.24832)
+- [How Much Do Language Models Memorize?](https://arxiv.org/abs/2505.24832)
 
 - [Memory Retrieval and Consolidation in Large Language Models through Function Tokens](https://arxiv.org/abs/2510.08203)
 

@@ -848,6 +848,10 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management](https://arxiv.org/abs/2606.19926)**
+    [[code](https://github.com/kwai/MemGUI-Agent)]
+    [[proj](https://memgui-agent.github.io/)]
+
 - **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096)**
     [[code](https://github.com/YiwengXie/FluxMem)]
     [[proj](https://yiwengxie.com/FluxMem/)]

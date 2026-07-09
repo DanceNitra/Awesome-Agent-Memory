@@ -712,6 +712,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Memory Efficiency and Resource-Rational Encoding in Sentence Processing](https://aclanthology.org/2026.acl-long.1550/)**
+    [[code](https://github.com/weijiexu-charlie/resource-rational-encoding)]
+
 - **[AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.01224)**
     [[code](https://github.com/autoLearnMem/AutoMem)]
     [[proj](https://autolearnmem.github.io/)]

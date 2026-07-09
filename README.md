@@ -1258,6 +1258,11 @@ _Ordered by the number of Github stars._
 - [From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents](https://arxiv.org/abs/2606.04329)
     (The MPBench Paper)
 
+- **[mnemo poisoning probes](https://github.com/DanceNitra/agora/tree/main/mnemo/probes)**
+    [[attack](https://github.com/DanceNitra/agora/blob/main/mnemo/probes/memory_defense_layer_probe.py)]
+    [[defense](https://github.com/DanceNitra/agora/blob/main/mnemo/probes/memory_gate_defense_probe.py)]
+    _Runnable probe scripts demonstrating that provenance written into a memory record is forgeable, and that a retrieval-time corroboration gate raises the cost of memory-poisoning attacks._
+
 ---
 
 ## 📰 Articles

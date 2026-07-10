@@ -539,6 +539,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **OmniMemEval**
+    [[code](https://github.com/MemTensor/OmniMemEval)]
+
 - **[Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)**
     (The MemoryData Paper)
    [[code](https://github.com/OpenDataBox/MemoryData)]
@@ -920,6 +923,10 @@ _Ordered by the number of Github stars._
 ### 🎥 Multimodal Memory (for Generation)
 
 #### 🗓️ 2026
+
+- **[MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](https://arxiv.org/abs/2606.17162)**
+    [[code](https://github.com/huohua325/Memslides)]
+    [[proj](https://memslides.github.io/)]
 
 - **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)**
     [[code](https://github.com/Junyi42/LoGeR)]

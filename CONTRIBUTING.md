@@ -24,7 +24,7 @@ N. **[Name](https://homepage)**
      _One-line factual description (≤ 25 words)._
 ```
 
-Place the new entry at the position matching its current star count.
+Place the new entry at the position matching its current star count. Products with fewer than 100 stars go inside the collapsed **Emerging projects** `<details>` block at the end of the section (numbering continues there); they graduate into the main list once they cross 100 stars. CI checks both the ordering and this boundary weekly, with a ±10-star grace band so projects hovering around 100 don't bounce between sections.
 
 ### Closed-Source products
 

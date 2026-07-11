@@ -1387,14 +1387,7 @@ This list grew out of the maintainers' SIGIR-AP 2025 tutorial, which you can cit
 
 ## Star History
 
-<a href="https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/stargazers">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.svg">
-    <img alt="Star History Chart" src="assets/star-history.svg">
-  </picture>
-</a>
-
-<sup>Updated weekly by [a GitHub Actions workflow](.github/workflows/star-history.yml).</sup>
+[![Star History Chart](https://api.star-history.com/chart?repos=TeleAI-UAGI/Awesome-Agent-Memory&type=date&legend=bottom-right&sealed_token=HndhpfcgmQQTZzykPTJnhTRiM7VTBcvQ8x1cmjkLDjqmPAXnhQlj8KJCwGZQDy3FL90JNnLOlvRMZ0S2RmzOE1p-Q-mot3_dvaxkvM_7mznGaYL9KoDkVYPs5gWv8Ga8Qw9-7USKNYYp_VHvjPloysMz_0Q9DZiL0UGs0d2LK26AaMRfGygbYU9nG85O)](https://www.star-history.com/?repos=TeleAI-UAGI%2FAwesome-Agent-Memory&type=date&legend=bottom-right)
 
 ---
 

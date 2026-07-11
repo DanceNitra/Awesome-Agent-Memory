@@ -41,3 +41,28 @@ body:
       description: One or two factual sentences. Include the code link if open-source.
     validations:
       required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your affiliation with the resource
+      description: e.g. author, maintainer, employee, investor, user, none. Affiliated submissions are welcome — they just follow the same rules as everything else.
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: How are performance / benchmark claims supported?
+      options:
+        - No performance claims made
+        - Self-reported (vendor or author)
+        - Paper-reported (arXiv or peer-reviewed)
+        - Independently verified (third party)
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License (open-source resources)
+      description: e.g. MIT, Apache-2.0. Leave blank for closed-source products, papers, or articles.
+    validations:
+      required: false

@@ -3,7 +3,7 @@
 <h1 align="center">🧠 Awesome Agent Memory</h1>
 
 <p align="center">
-    A curated collection of systems, benchmarks, and papers etc. on memory mechanisms for Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), exploring how different approaches enable long-term context, retrieval, and efficient reasoning.
+    A curated map of memory for AI agents — the systems, benchmarks, and research that give LLM and multimodal agents long-term context, persistent recall, and the ability to improve from experience.
 </p>
 
 <p align="center">
@@ -17,10 +17,36 @@
    <a href="https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/commits/main"><img src="https://img.shields.io/github/last-commit/TeleAI-UAGI/Awesome-Agent-Memory" alt="Last Commit"></a>
 </p>
 
---- 
+---
+
+### 🧭 Start Here
+
+| If you want to… | Jump to |
+|---|---|
+| Add a memory layer to an agent you're building | [💿 Products](#-products) |
+| Choose a benchmark to evaluate a memory system | [📏 Benchmarks](#-benchmarks) |
+| Get oriented in the field | [📖 Tutorials](#-tutorials) · [📚 Surveys](#-surveys) |
+| Follow research on memory architectures | [🔤 Nonparametric Memory](#-papers---nonparametric-memory) · [🔢 Parametric Memory](#-papers---parametric-memory) |
+| Build agents that learn from experience | [📈 Memory for Agent Evolution](#-papers---memory-for-agent-evolution) |
+| Protect agent memory from poisoning and abuse | [🔒 Memory Security & Defense](#-memory-security--defense) |
+
+<details>
+  <summary>📋 <b>How this list is curated</b></summary>
+
+  - Open-source products are ordered by GitHub star count — an objective, CI-checked popularity signal, not a quality ranking or an endorsement.
+  - **Bold** marks resources with reproducible code publicly available.
+  - Descriptions are factual, not promotional (see the [contributing guide](CONTRIBUTING.md)).
+  - This list is maintained by [Bloo-Mind AI](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainers are marked with † and follow exactly the same ranking, format, and style rules as every other entry.
+  - Projects that are inactive, archived, or whose claims are disputed move to the [Archival](#archival) subsection with a neutral status label, links to the evidence, and the date the status was last checked.
+
+</details>
+
+<details>
+  <summary>📰 <b>In the News</b></summary>
+
 - 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents)
 - 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
-- 📰 [[Bloo-Mind AI (2026-05-20)] The Benchmark Theatre: Why Almost Nothing You’ve Read About Agent Memory Scores Is True](https://essays.bloo-mind.ai/posts/2026-05-20-mem-eval/)
+- 📰 [[Bloo-Mind AI (2026-05-20)] The Benchmark Theatre: Why Almost Nothing You’ve Read About Agent Memory Scores Is True](https://essays.bloo-mind.ai/posts/2026-05-20-mem-eval/) †
 - 📰 [[Jiayi Weng (2026-05-09)] Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
 - 📰 [[Anthropic (2026-05-08)] Three key areas Anthropic is working on for their next models](https://www.reddit.com/r/singularity/comments/1t5q53r/three_key_areas_anthropic_is_working_on_for_their/)
 - 📰 [[InfoQ (2026-04-30)] Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents](https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/)
@@ -30,7 +56,9 @@
 - 📰 [[AI Godfather (2026-04-08)] MemPalace - How Milla Jovovich's AI Project Scammed the Internet](https://www.youtube.com/watch?v=WlxNNvDHJkE) 
 - 📰 [[Troy Hua (2026-03-31)] How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com/troyhua/status/2039052328070734102)
 - 📰 [[VelvetShark (2026-03-05)] OpenClaw Memory Masterclass: The complete guide to agent memory that survives](https://velvetshark.com/openclaw-memory-masterclass)
-- 📰 [[Business Insider (2026-01-08 )] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1) 
+- 📰 [[Business Insider (2026-01-08)] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1)
+
+</details>
 
 ---
 
@@ -68,7 +96,7 @@
 
 <div align="left">
     
-**If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
+**If you find this list helpful, please give it a ⭐️ — starring also keeps updates in your GitHub feed.**
 
 _🤝 Contributions welcome! Feel free to open an issue or submit a pull request to add papers, fix links, or improve categorization — see the [contributing guide](CONTRIBUTING.md) for entry formats._
 
@@ -96,13 +124,12 @@ _Ordered by the number of Github stars._
      [[blog](https://mem0.ai/blog)]
      _Universal memory layer for AI agents._
 
-    - **[TeleMem: A High-Performance Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
+    - **[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)** †
+        ![Star](https://img.shields.io/github/stars/TeleAI-UAGI/TeleMem.svg?style=social&label=Star)
         [[code](https://github.com/TeleAI-UAGI/TeleMem)]
         [[docs](https://teleai-uagi.github.io/telemem/)]
         [[paper](https://arxiv.org/abs/2601.06037)]
-         <mark>`import telemem as mem0`</mark>
-
-        🆕 _Newly released. Rising star. Stay tuned!_ 😜
+        _API-compatible drop-in replacement for Mem0 (`import telemem as mem0`); listed as a sub-item of Mem0 rather than ranked by stars. Maintainer-affiliated._
 
 3. **[Zep (powered by Graphiti)](https://www.getzep.com/)** 
      ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
@@ -445,16 +472,18 @@ _Ordered by the number of Github stars._
 
 ### Archival
 
--  [MemPalace](https://github.com/MemPalace/mempalace) ❌ (Debunked)
-   [[code](https://github.com/milla-jovovich/mempalace)] 
-   [[critique1](https://www.youtube.com/watch?v=WlxNNvDHJkE),[critique2](https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai)]
+_Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked._
+
+-  [MemPalace](https://github.com/MemPalace/mempalace) ⚠️ Disputed (third-party critiques challenge the project's core claims; last checked 2026-07)
+   [[code](https://github.com/milla-jovovich/mempalace)]
+   [[critique1](https://www.youtube.com/watch?v=WlxNNvDHJkE), [critique2](https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai)]
    _Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends_
 
--  [Memvid](https://www.memvid.com/) ❌ (Debunked)
+-  [Memvid](https://www.memvid.com/) ⚠️ Disputed (technical critique raised in GitHub issues, since deleted but archived; last checked 2026-07)
    [[code](https://github.com/Olow304/memvid)]
-   [[critique (archived — the GitHub issues were since deleted)](https://web.archive.org/web/20250807093442/https://github.com/Olow304/memvid/issues/49)]
+   [[critique (archived)](https://web.archive.org/web/20250807093442/https://github.com/Olow304/memvid/issues/49)]
 
--  [Memary](https://kingjulio8238.github.io/memarydocs/) ❄️ (Inactive)
+-  [Memary](https://kingjulio8238.github.io/memarydocs/) ❄️ Inactive (no significant development activity; last checked 2026-07)
    [[code](https://github.com/kingjulio8238/memary)]
 
 ---
@@ -466,11 +495,11 @@ _Ordered by the number of Github stars._
  - **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
      [[code](https://github.com/NirDiamant/Agent_Memory_Techniques)]
 
-- **[Memory, Context, and Retrieval](https://books.bloo-mind.ai/masact/ch-07-memory-context-retrieval)**: Chapter 7 of the new book _[Multi-Agent Systems: A Contemporary Treatment](https://books.bloo-mind.ai/masact/)_.
+- **[Memory, Context, and Retrieval](https://books.bloo-mind.ai/masact/ch-07-memory-context-retrieval)** †: Chapter 7 of the book _[Multi-Agent Systems: A Contemporary Treatment](https://books.bloo-mind.ai/masact/)_.
   
 #### 🗓️ 2025
 
- - **[ACM SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
+ - **[ACM SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)** †
      [[paper](https://dl.acm.org/doi/10.1145/3767695.3769671)]
      [[code](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory)]
  
@@ -647,7 +676,7 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
--  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)**
+-  **[TeleEgo: Benchmarking Egocentric AI Assistants in the Wild](https://arxiv.org/abs/2510.23981)** †
      [[code](https://github.com/TeleAI-UAGI/TeleEgo)]
      [[data](https://huggingface.co/datasets/David0219/TeleEgo)]
      [[proj](https://programmergg.github.io/jrliu.github.io/)]
@@ -1323,7 +1352,18 @@ _Ordered by the number of Github stars._
 
 ## 📑 Citation
 
-If this list is useful for your research or product, please cite it:
+To cite this collection itself, use the metadata in [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button), or:
+
+```bibtex
+@misc{awesomeAgentMemory,
+        author = {{Bloo-Mind AI Ltd} and {TeleAI Ubiquitous AGI Team}},
+        title = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for {LLMs}/{MLLMs}},
+        year = {2025},
+        howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}
+}
+```
+
+This list grew out of the maintainers' SIGIR-AP 2025 tutorial, which you can cite as the related publication:
 
 ```bibtex
 @inproceedings{zhangConversationalAgentsRAG2025,

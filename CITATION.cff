@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this list in your research, please cite it as below."
+type: dataset
 title: "Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs"
 authors:
   - name: "Bloo-Mind AI Ltd"
@@ -7,3 +8,23 @@ authors:
 repository-code: "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
 license: Apache-2.0
 date-released: 2025-10-30
+references:
+  - type: conference-paper
+    title: "Conversational Agents: From RAG to LTM"
+    authors:
+      - family-names: "Zhang"
+        given-names: "Dell"
+      - family-names: "Feng"
+        given-names: "Yue"
+      - family-names: "Liu"
+        given-names: "Haiming"
+      - family-names: "Sun"
+        given-names: "Changzhi"
+      - family-names: "Luo"
+        given-names: "Jixiang"
+      - family-names: "Chen"
+        given-names: "Xiangyu"
+      - family-names: "Li"
+        given-names: "Xuelong"
+    doi: "10.1145/3767695.3769671"
+    year: 2025

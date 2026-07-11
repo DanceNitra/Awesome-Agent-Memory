@@ -3,6 +3,10 @@ name: Star-order check
 on:
   schedule:
     - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  pull_request:
+    paths:
+      - "README.md"
+      - "scripts/check_star_order.py"
   workflow_dispatch:
 
 permissions:

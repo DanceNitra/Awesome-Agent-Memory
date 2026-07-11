@@ -1361,7 +1361,7 @@ To cite this collection itself, use the metadata in [`CITATION.cff`](CITATION.cf
 
 ```bibtex
 @misc{awesomeAgentMemory,
-        author = {{Bloo-Mind AI Ltd} and {TeleAI Ubiquitous AGI Team}},
+        author = {Zhang, Dell and Sun, Changzhi and Luo, Jixiang and Chen, Xiangyu and Li, Xuelong},
         title = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for {LLMs}/{MLLMs}},
         year = {2025},
         howpublished = {\url{https://github.com/TeleAI-UAGI/Awesome-Agent-Memory}}

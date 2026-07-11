@@ -3,8 +3,16 @@ message: "If you use this list in your research, please cite it as below."
 type: dataset
 title: "Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for LLMs/MLLMs"
 authors:
-  - name: "Bloo-Mind AI Ltd"
-  - name: "TeleAI Ubiquitous AGI Team"
+  - family-names: "Zhang"
+    given-names: "Dell"
+  - family-names: "Sun"
+    given-names: "Changzhi"
+  - family-names: "Luo"
+    given-names: "Jixiang"
+  - family-names: "Chen"
+    given-names: "Xiangyu"
+  - family-names: "Li"
+    given-names: "Xuelong"
 repository-code: "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
 license: Apache-2.0
 date-released: 2025-10-30

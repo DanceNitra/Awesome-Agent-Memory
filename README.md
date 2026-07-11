@@ -96,7 +96,7 @@
 
 <div align="left">
     
-**If you find this list helpful, please give it a ⭐️ — starring also keeps updates in your GitHub feed.**
+**If you find this page helpful, please give it a ⭐️ — starring also keeps updates in your GitHub feed.**
 
 _🤝 Contributions welcome! Feel free to open an issue or submit a pull request to add papers, fix links, or improve categorization — see the [contributing guide](CONTRIBUTING.md) for entry formats._
 
@@ -1393,7 +1393,7 @@ This list grew out of the maintainers' SIGIR-AP 2025 tutorial, which you can cit
 
 <div align="center">
 
-**If you find this project helpful, please give us a ⭐️.**
+**If you find this page helpful, please give it a ⭐️ — starring also keeps updates in your GitHub feed.**
 
 Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiquitous AGI team at TeleAI.
 

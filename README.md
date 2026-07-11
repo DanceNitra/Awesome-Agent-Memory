@@ -1360,7 +1360,7 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 To cite this collection itself, use the metadata in [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button), or:
 
 ```bibtex
-@misc{awesomeAgentMemory,
+@misc{zhang2025awesomeagentmemory,
         author = {Zhang, Dell and Sun, Changzhi and Luo, Jixiang and Chen, Xiangyu and Li, Xuelong},
         title = {Awesome Agent Memory: Curated Systems, Benchmarks, and Papers on Memory for {LLMs}/{MLLMs}},
         year = {2025},

@@ -837,6 +837,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs](https://arxiv.org/abs/2604.23626)**
+    [[code](https://github.com/ulab-uiuc/GraphPlanner)]
+
 - **[HyperMem: Hypergraph Memory for Long-Term Conversations](https://arxiv.org/abs/2604.08256)**
     [[code](https://github.com/EverMind-AI/EverOS)]
 

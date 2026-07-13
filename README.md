@@ -918,6 +918,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 - **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329)**
     [[code](https://github.com/lingcco/EventMemAgent)]
 
+- **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
+    [[code](https://github.com/Little-Fridge/M2A)]
+
 #### 🗓️ 2025
 
 - **[WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)**

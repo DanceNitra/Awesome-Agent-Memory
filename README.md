@@ -299,18 +299,18 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[blog](https://memclaw.net/blog)]
       _Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning._
 
-31. **[Statewave](https://statewave.ai/)**
+31. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)**
+      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
+      [[code](https://github.com/Ikalus1988/MisakaNet)]
+      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
+      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
+
+32. **[Statewave](https://statewave.ai/)**
       ![Star](https://img.shields.io/github/stars/smaramwbc/statewave.svg?style=social&label=Star)
       [[code](https://github.com/smaramwbc/statewave)]
       [[docs](https://github.com/smaramwbc/statewave-docs)]
       [[blog](https://www.statewave.ai/blog)]
       _Open-source memory runtime for AI agents serving reproducible, provenance-tagged context bundles instead of query-time retrieval; self-hosted on Postgres + pgvector with Python/TypeScript SDKs._
-
-32. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** 
-      ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social&label=Star)
-      [[code](https://github.com/Ikalus1988/MisakaNet)]
-      [[wiki](https://github.com/Ikalus1988/MisakaNet/wiki)]
-      _Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues._
 
 33. **[Memov](https://www.memov.ai/)** 
       ![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
@@ -390,16 +390,16 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       [[docs](https://github.com/hjqcan/GoodMemory#quickstart-codex-or-claude-code-memory)]
       _Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback._
 
-47. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
-      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
-      [[code](https://github.com/atw4757-byte/archon-memory-core)]
-      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
-
-48. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
+47. **[Agentic Task System](https://github.com/renezander030/agentic-task-system)**
       ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social&label=Star)
       [[code](https://github.com/renezander030/agentic-task-system)]
       [[npm](https://www.npmjs.com/package/@reneza/ats-cli)]
       _Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters._
+
+48. **[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)**
+      ![Star](https://img.shields.io/github/stars/atw4757-byte/archon-memory-core.svg?style=social&label=Star)
+      [[code](https://github.com/atw4757-byte/archon-memory-core)]
+      _Local-first agent memory with nightly consolidation, active forgetting, and salience scoring._
 
 49. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB)**
       ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social&label=Star)

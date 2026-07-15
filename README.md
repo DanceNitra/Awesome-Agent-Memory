@@ -1346,6 +1346,8 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
+
 - [Why Character.AI Forgets You — And What Persistent Memory Actually Requires](https://blog.kinthai.ai/why-character-ai-forgets-you-persistent-memory-architecture)
 
 - [221 Agents: Multi-Agent Coordination Lessons](https://blog.kinthai.ai/221-agents-multi-agent-coordination-lessons)

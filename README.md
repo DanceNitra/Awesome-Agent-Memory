@@ -733,6 +733,9 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 
 #### 🗓️ 2026
 
+- **[SEAGym: An Evaluation Environment for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.17546)**
+    [[code](https://github.com/antropy-research/SEAGym)]
+
 - **[Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory](https://arxiv.org/abs/2605.31086)**
     [[code](https://github.com/microsoft/RHELM)]
     [[data](https://huggingface.co/datasets/microsoft/RHELM)]

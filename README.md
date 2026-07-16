@@ -448,6 +448,11 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
       ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social&label=Star)
       [[code](https://github.com/xiaofanliu525-ctrl/suyi-memory)]
       _Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization._
+58. **[mnemo](https://github.com/DanceNitra/mnemo)**
+      ![Star](https://img.shields.io/github/stars/DanceNitra/mnemo.svg?style=social&label=Star)
+      [[code](https://github.com/DanceNitra/mnemo)]
+      [[pypi](https://pypi.org/project/agora-mnemo/)]
+      _Zero-dependency memory layer and MCP server: value-ranked recall, per-type decay, deterministic keyed supersession, and a first-class correction channel — revert, a read-path review-trigger (observe/reopen), signed provenance grounds, tamper-evident receipts, and cross-store erasure._
 
 </details>
 
@@ -524,6 +529,10 @@ _Projects that are inactive or whose claims have been disputed by third parties.
 ## 📖 Tutorials
 
 #### 🗓️ 2026
+
+- **[Agent-Memory Integrity Benchmark](https://github.com/DanceNitra/agent-memory-integrity)**
+    [[code](https://github.com/DanceNitra/agent-memory-integrity)]
+    _Open cross-system harness for memory integrity under correction (value-obscuring revert + echo resurrection) — the axis recall benchmarks skip; a shared ground-truth-blind judge, run across mnemo, mem0, and Graphiti._
 
  - **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
      [[code](https://github.com/NirDiamant/Agent_Memory_Techniques)]
